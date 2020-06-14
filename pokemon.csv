@@ -1,0 +1,722 @@
+against_bug,against_dark,against_dragon,against_electric,against_fairy,against_fight,against_fire,against_flying,against_ghost,against_grass,against_ground,against_ice,against_normal,against_poison,against_psychic,against_rock,against_steel,against_water,classfication,name,pokedex_number,type1,type2,is_legendary
+1,1,1,0.5,0.5,0.5,2,2,1,0.25,1,2,1,1,2,1,1,0.5,Seed Pokémon,Bulbasaur,1,grass,poison,0
+1,1,1,0.5,0.5,0.5,2,2,1,0.25,1,2,1,1,2,1,1,0.5,Seed Pokémon,Ivysaur,2,grass,poison,0
+1,1,1,0.5,0.5,0.5,2,2,1,0.25,1,2,1,1,2,1,1,0.5,Seed Pokémon,Venusaur,3,grass,poison,0
+0.5,1,1,1,0.5,1,0.5,1,1,0.5,2,0.5,1,1,1,2,0.5,2,Lizard Pokémon,Charmander,4,fire,,0
+0.5,1,1,1,0.5,1,0.5,1,1,0.5,2,0.5,1,1,1,2,0.5,2,Flame Pokémon,Charmeleon,5,fire,,0
+0.25,1,1,2,0.5,0.5,0.5,1,1,0.25,0,1,1,1,1,4,0.5,2,Flame Pokémon,Charizard,6,fire,flying,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Tiny Turtle Pokémon,Squirtle,7,water,,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Turtle Pokémon,Wartortle,8,water,,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Shellfish Pokémon,Blastoise,9,water,,0
+1,1,1,1,1,0.5,2,2,1,0.5,0.5,1,1,1,1,2,1,1,Worm Pokémon,Caterpie,10,bug,,0
+1,1,1,1,1,0.5,2,2,1,0.5,0.5,1,1,1,1,2,1,1,Cocoon Pokémon,Metapod,11,bug,,0
+0.5,1,1,2,1,0.25,2,2,1,0.25,0,2,1,1,1,4,1,1,Butterfly Pokémon,Butterfree,12,bug,flying,0
+0.5,1,1,1,0.5,0.25,2,2,1,0.25,1,1,1,0.5,2,2,1,1,Hairy Pokémon,Weedle,13,bug,poison,0
+0.5,1,1,1,0.5,0.25,2,2,1,0.25,1,1,1,0.5,2,2,1,1,Cocoon Pokémon,Kakuna,14,bug,poison,0
+0.5,1,1,1,0.5,0.25,2,2,1,0.25,1,1,1,0.5,2,2,1,1,Poison Bee Pokémon,Beedrill,15,bug,poison,0
+0.5,1,1,2,1,1,1,1,0,0.5,0,2,1,1,1,2,1,1,Tiny Bird Pokémon,Pidgey,16,normal,flying,0
+0.5,1,1,2,1,1,1,1,0,0.5,0,2,1,1,1,2,1,1,Bird Pokémon,Pidgeotto,17,normal,flying,0
+0.5,1,1,2,1,1,1,1,0,0.5,0,2,1,1,1,2,1,1,Bird Pokémon,Pidgeot,18,normal,flying,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Mouse Pokémon,Rattata,19,normal,dark,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Mouse Pokémon,Raticate,20,normal,dark,0
+0.5,1,1,2,1,1,1,1,0,0.5,0,2,1,1,1,2,1,1,Tiny Bird Pokémon,Spearow,21,normal,flying,0
+0.5,1,1,2,1,1,1,1,0,0.5,0,2,1,1,1,2,1,1,Beak Pokémon,Fearow,22,normal,flying,0
+0.5,1,1,1,0.5,0.5,1,1,1,0.5,2,1,1,0.5,2,1,1,1,Snake Pokémon,Ekans,23,poison,,0
+0.5,1,1,1,0.5,0.5,1,1,1,0.5,2,1,1,0.5,2,1,1,1,Cobra Pokémon,Arbok,24,poison,,0
+1,1,1,0.5,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,Mouse Pokémon,Pikachu,25,electric,,0
+1,1,1,0.5,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,Mouse Pokémon,Raichu,26,electric,electric,0
+1,1,1,0,1,1,1,1,1,2,1,2,1,0.5,1,0.5,1,2,Mouse Pokémon,Sandshrew,27,ground,ice,0
+1,1,1,0,1,1,1,1,1,2,1,2,1,0.5,1,0.5,1,2,Mouse Pokémon,Sandslash,28,ground,ice,0
+0.5,1,1,1,0.5,0.5,1,1,1,0.5,2,1,1,0.5,2,1,1,1,Poison Pin Pokémon,Nidoran♀,29,poison,,0
+0.5,1,1,1,0.5,0.5,1,1,1,0.5,2,1,1,0.5,2,1,1,1,Poison Pin Pokémon,Nidorina,30,poison,,0
+0.5,1,1,0,0.5,0.5,1,1,1,1,2,2,1,0.25,2,0.5,1,2,Drill Pokémon,Nidoqueen,31,poison,ground,0
+0.5,1,1,1,0.5,0.5,1,1,1,0.5,2,1,1,0.5,2,1,1,1,Poison Pin Pokémon,Nidoran♂,32,poison,,0
+0.5,1,1,1,0.5,0.5,1,1,1,0.5,2,1,1,0.5,2,1,1,1,Poison Pin Pokémon,Nidorino,33,poison,,0
+0.5,1,1,0,0.5,0.5,1,1,1,1,2,2,1,0.25,2,0.5,1,2,Drill Pokémon,Nidoking,34,poison,ground,0
+0.5,0.5,0,1,1,0.5,1,1,1,1,1,1,1,2,1,1,2,1,Fairy Pokémon,Clefairy,35,fairy,,0
+0.5,0.5,0,1,1,0.5,1,1,1,1,1,1,1,2,1,1,2,1,Fairy Pokémon,Clefable,36,fairy,,0
+0.5,1,1,1,0.5,1,0.5,1,1,0.5,2,0.5,1,1,1,2,0.5,2,Fox Pokémon,Vulpix,37,fire,ice,0
+0.5,1,1,1,0.5,1,0.5,1,1,0.5,2,0.5,1,1,1,2,0.5,2,Fox Pokémon,Ninetales,38,fire,ice,0
+0.5,0.5,0,1,1,1,1,1,0,1,1,1,1,2,1,1,2,1,Balloon Pokémon,Jigglypuff,39,normal,fairy,0
+0.5,0.5,0,1,1,1,1,1,0,1,1,1,1,2,1,1,2,1,Balloon Pokémon,Wigglytuff,40,normal,fairy,0
+0.25,1,1,2,0.5,0.25,1,1,1,0.25,0,2,1,0.5,2,2,1,1,Bat Pokémon,Zubat,41,poison,flying,0
+0.25,1,1,2,0.5,0.25,1,1,1,0.25,0,2,1,0.5,2,2,1,1,Bat Pokémon,Golbat,42,poison,flying,0
+1,1,1,0.5,0.5,0.5,2,2,1,0.25,1,2,1,1,2,1,1,0.5,Weed Pokémon,Oddish,43,grass,poison,0
+1,1,1,0.5,0.5,0.5,2,2,1,0.25,1,2,1,1,2,1,1,0.5,Weed Pokémon,Gloom,44,grass,poison,0
+1,1,1,0.5,0.5,0.5,2,2,1,0.25,1,2,1,1,2,1,1,0.5,Flower Pokémon,Vileplume,45,grass,poison,0
+2,1,1,0.5,1,0.5,4,4,1,0.25,0.25,2,1,2,1,2,1,0.5,Mushroom Pokémon,Paras,46,bug,grass,0
+2,1,1,0.5,1,0.5,4,4,1,0.25,0.25,2,1,2,1,2,1,0.5,Mushroom Pokémon,Parasect,47,bug,grass,0
+0.5,1,1,1,0.5,0.25,2,2,1,0.25,1,1,1,0.5,2,2,1,1,Insect Pokémon,Venonat,48,bug,poison,0
+0.5,1,1,1,0.5,0.25,2,2,1,0.25,1,1,1,0.5,2,2,1,1,Poison Moth Pokémon,Venomoth,49,bug,poison,0
+1,1,1,0,1,1,1,1,1,2,1,2,1,0.5,1,0.5,1,2,Mole Pokémon,Diglett,50,ground,ground,0
+1,1,1,0,1,1,1,1,1,2,1,2,1,0.5,1,0.5,1,2,Mole Pokémon,Dugtrio,51,ground,ground,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Scratch Cat Pokémon,Meowth,52,normal,dark,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Classy Cat Pokémon,Persian,53,normal,dark,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Duck Pokémon,Psyduck,54,water,,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Duck Pokémon,Golduck,55,water,,0
+0.5,0.5,1,1,2,1,1,2,1,1,1,1,1,1,2,0.5,1,1,Pig Monkey Pokémon,Mankey,56,fighting,,0
+0.5,0.5,1,1,2,1,1,2,1,1,1,1,1,1,2,0.5,1,1,Pig Monkey Pokémon,Primeape,57,fighting,,0
+0.5,1,1,1,0.5,1,0.5,1,1,0.5,2,0.5,1,1,1,2,0.5,2,Puppy Pokémon,Growlithe,58,fire,,0
+0.5,1,1,1,0.5,1,0.5,1,1,0.5,2,0.5,1,1,1,2,0.5,2,Legendary Pokémon,Arcanine,59,fire,,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Tadpole Pokémon,Poliwag,60,water,,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Tadpole Pokémon,Poliwhirl,61,water,,0
+0.5,0.5,1,2,2,1,0.5,2,1,2,1,0.5,1,1,2,0.5,0.5,0.5,Tadpole Pokémon,Poliwrath,62,water,fighting,0
+2,2,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,1,1,Psi Pokémon,Abra,63,psychic,,0
+2,2,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,1,1,Psi Pokémon,Kadabra,64,psychic,,0
+2,2,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,1,1,Psi Pokémon,Alakazam,65,psychic,,0
+0.5,0.5,1,1,2,1,1,2,1,1,1,1,1,1,2,0.5,1,1,Superpower Pokémon,Machop,66,fighting,,0
+0.5,0.5,1,1,2,1,1,2,1,1,1,1,1,1,2,0.5,1,1,Superpower Pokémon,Machoke,67,fighting,,0
+0.5,0.5,1,1,2,1,1,2,1,1,1,1,1,1,2,0.5,1,1,Superpower Pokémon,Machamp,68,fighting,,0
+1,1,1,0.5,0.5,0.5,2,2,1,0.25,1,2,1,1,2,1,1,0.5,Flower Pokémon,Bellsprout,69,grass,poison,0
+1,1,1,0.5,0.5,0.5,2,2,1,0.25,1,2,1,1,2,1,1,0.5,Flycatcher Pokémon,Weepinbell,70,grass,poison,0
+1,1,1,0.5,0.5,0.5,2,2,1,0.25,1,2,1,1,2,1,1,0.5,Flycatcher Pokémon,Victreebel,71,grass,poison,0
+0.5,1,1,2,0.5,0.5,0.5,1,1,1,2,0.5,1,0.5,2,1,0.5,0.5,Jellyfish Pokémon,Tentacool,72,water,poison,0
+0.5,1,1,2,0.5,0.5,0.5,1,1,1,2,0.5,1,0.5,2,1,0.5,0.5,Jellyfish Pokémon,Tentacruel,73,water,poison,0
+1,1,1,0,1,2,0.5,0.5,1,4,2,2,0.5,0.25,1,0.5,2,4,Rock Pokémon,Geodude,74,rock,ground,0
+1,1,1,0,1,2,0.5,0.5,1,4,2,2,0.5,0.25,1,0.5,2,4,Rock Pokémon,Graveler,75,rock,ground,0
+1,1,1,0,1,2,0.5,0.5,1,4,2,2,0.5,0.25,1,0.5,2,4,Megaton Pokémon,Golem,76,rock,ground,0
+0.5,1,1,1,0.5,1,0.5,1,1,0.5,2,0.5,1,1,1,2,0.5,2,Fire Horse Pokémon,Ponyta,77,fire,,0
+0.5,1,1,1,0.5,1,0.5,1,1,0.5,2,0.5,1,1,1,2,0.5,2,Fire Horse Pokémon,Rapidash,78,fire,,0
+2,2,1,2,1,0.5,0.5,1,2,2,1,0.5,1,1,0.5,1,0.5,0.5,Dopey Pokémon,Slowpoke,79,water,psychic,0
+2,2,1,2,1,0.5,0.5,1,2,2,1,0.5,1,1,0.5,1,0.5,0.5,Hermit Crab Pokémon,Slowbro,80,water,psychic,0
+0.5,1,0.5,0.5,0.5,2,2,0.25,1,0.5,4,0.5,0.5,0,0.5,0.5,0.25,1,Magnet Pokémon,Magnemite,81,electric,steel,0
+0.5,1,0.5,0.5,0.5,2,2,0.25,1,0.5,4,0.5,0.5,0,0.5,0.5,0.25,1,Magnet Pokémon,Magneton,82,electric,steel,0
+0.5,1,1,2,1,1,1,1,0,0.5,0,2,1,1,1,2,1,1,Wild Duck Pokémon,Farfetch'd,83,normal,flying,0
+0.5,1,1,2,1,1,1,1,0,0.5,0,2,1,1,1,2,1,1,Twin Bird Pokémon,Doduo,84,normal,flying,0
+0.5,1,1,2,1,1,1,1,0,0.5,0,2,1,1,1,2,1,1,Triple Bird Pokémon,Dodrio,85,normal,flying,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Sea Lion Pokémon,Seel,86,water,,0
+1,1,1,2,1,2,1,1,1,2,1,0.25,1,1,1,2,1,0.5,Sea Lion Pokémon,Dewgong,87,water,ice,0
+0.5,1,1,1,0.5,0.5,1,1,1,0.5,2,1,1,0.5,2,1,1,1,Sludge Pokémon,Grimer,88,poison,poison,0
+0.5,1,1,1,0.5,0.5,1,1,1,0.5,2,1,1,0.5,2,1,1,1,Sludge Pokémon,Muk,89,poison,poison,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Bivalve Pokémon,Shellder,90,water,,0
+1,1,1,2,1,2,1,1,1,2,1,0.25,1,1,1,2,1,0.5,Bivalve Pokémon,Cloyster,91,water,ice,0
+0.25,2,1,1,0.5,0,1,1,2,0.5,2,1,0,0.25,2,1,1,1,Gas Pokémon,Gastly,92,ghost,poison,0
+0.25,2,1,1,0.5,0,1,1,2,0.5,2,1,0,0.25,2,1,1,1,Gas Pokémon,Haunter,93,ghost,poison,0
+0.25,2,1,1,0.5,0,1,1,2,0.5,2,1,0,0.25,2,1,1,1,Shadow Pokémon,Gengar,94,ghost,poison,0
+1,1,1,0,1,2,0.5,0.5,1,4,2,2,0.5,0.25,1,0.5,2,4,Rock Snake Pokémon,Onix,95,rock,ground,0
+2,2,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,1,1,Hypnosis Pokémon,Drowzee,96,psychic,,0
+2,2,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,1,1,Hypnosis Pokémon,Hypno,97,psychic,,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,River Crab Pokémon,Krabby,98,water,,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Pincer Pokémon,Kingler,99,water,,0
+1,1,1,0.5,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,Ball Pokémon,Voltorb,100,electric,,0
+1,1,1,0.5,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,Ball Pokémon,Electrode,101,electric,,0
+4,2,1,0.5,1,0.5,2,2,2,0.5,0.5,2,1,2,0.5,1,1,0.5,Egg Pokémon,Exeggcute,102,grass,psychic,0
+4,2,1,0.5,1,0.5,2,2,2,0.5,0.5,2,1,2,0.5,1,1,0.5,Coconut Pokémon,Exeggutor,103,grass,psychic,0
+1,1,1,0,1,1,1,1,1,2,1,2,1,0.5,1,0.5,1,2,Lonely Pokémon,Cubone,104,ground,,0
+1,1,1,0,1,1,1,1,1,2,1,2,1,0.5,1,0.5,1,2,Bone Keeper Pokémon,Marowak,105,ground,fire,0
+0.5,0.5,1,1,2,1,1,2,1,1,1,1,1,1,2,0.5,1,1,Kicking Pokémon,Hitmonlee,106,fighting,,0
+0.5,0.5,1,1,2,1,1,2,1,1,1,1,1,1,2,0.5,1,1,Punching Pokémon,Hitmonchan,107,fighting,,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Licking Pokémon,Lickitung,108,normal,,0
+0.5,1,1,1,0.5,0.5,1,1,1,0.5,2,1,1,0.5,2,1,1,1,Poison Gas Pokémon,Koffing,109,poison,,0
+0.5,1,1,1,0.5,0.5,1,1,1,0.5,2,1,1,0.5,2,1,1,1,Poison Gas Pokémon,Weezing,110,poison,,0
+1,1,1,0,1,2,0.5,0.5,1,4,2,2,0.5,0.25,1,0.5,2,4,Spikes Pokémon,Rhyhorn,111,ground,rock,0
+1,1,1,0,1,2,0.5,0.5,1,4,2,2,0.5,0.25,1,0.5,2,4,Drill Pokémon,Rhydon,112,ground,rock,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Egg Pokémon,Chansey,113,normal,,0
+2,1,1,0.5,1,1,2,2,1,0.5,0.5,2,1,2,1,1,1,0.5,Vine Pokémon,Tangela,114,grass,,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Parent Pokémon,Kangaskhan,115,normal,,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Dragon Pokémon,Horsea,116,water,,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Dragon Pokémon,Seadra,117,water,,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Goldfish Pokémon,Goldeen,118,water,,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Goldfish Pokémon,Seaking,119,water,,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Starshape Pokémon,Staryu,120,water,,0
+2,2,1,2,1,0.5,0.5,1,2,2,1,0.5,1,1,0.5,1,0.5,0.5,Mysterious Pokémon,Starmie,121,water,psychic,0
+1,1,0,1,1,0.25,1,1,2,1,1,1,1,2,0.5,1,2,1,Barrier Pokémon,Mr. Mime,122,psychic,fairy,0
+0.5,1,1,2,1,0.25,2,2,1,0.25,0,2,1,1,1,4,1,1,Mantis Pokémon,Scyther,123,bug,flying,0
+2,2,1,1,1,1,2,1,2,1,1,0.5,1,1,0.5,2,2,1,Humanshape Pokémon,Jynx,124,ice,psychic,0
+1,1,1,0.5,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,Electric Pokémon,Electabuzz,125,electric,,0
+0.5,1,1,1,0.5,1,0.5,1,1,0.5,2,0.5,1,1,1,2,0.5,2,Spitfire Pokémon,Magmar,126,fire,,0
+1,1,1,1,1,0.5,2,2,1,0.5,0.5,1,1,1,1,2,1,1,Stagbeetle Pokémon,Pinsir,127,bug,,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Wild Bull Pokémon,Tauros,128,normal,,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Fish Pokémon,Magikarp,129,water,,0
+0.5,1,1,4,1,0.5,0.5,1,1,1,0,1,1,1,1,2,0.5,0.5,Atrocious Pokémon,Gyarados,130,water,flying,0
+1,1,1,2,1,2,1,1,1,2,1,0.25,1,1,1,2,1,0.5,Transport Pokémon,Lapras,131,water,ice,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Transform Pokémon,Ditto,132,normal,,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Evolution Pokémon,Eevee,133,normal,,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Bubble Jet Pokémon,Vaporeon,134,water,,0
+1,1,1,0.5,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,Lightning Pokémon,Jolteon,135,electric,,0
+0.5,1,1,1,0.5,1,0.5,1,1,0.5,2,0.5,1,1,1,2,0.5,2,Flame Pokémon,Flareon,136,fire,,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Virtual Pokémon,Porygon,137,normal,,0
+1,1,1,2,1,2,0.25,0.5,1,4,2,0.5,0.5,0.5,1,1,1,1,Spiral Pokémon,Omanyte,138,rock,water,0
+1,1,1,2,1,2,0.25,0.5,1,4,2,0.5,0.5,0.5,1,1,1,1,Spiral Pokémon,Omastar,139,rock,water,0
+1,1,1,2,1,2,0.25,0.5,1,4,2,0.5,0.5,0.5,1,1,1,1,Shellfish Pokémon,Kabuto,140,rock,water,0
+1,1,1,2,1,2,0.25,0.5,1,4,2,0.5,0.5,0.5,1,1,1,1,Shellfish Pokémon,Kabutops,141,rock,water,0
+0.5,1,1,2,1,1,0.5,0.5,1,1,0,2,0.5,0.5,1,2,2,2,Fossil Pokémon,Aerodactyl,142,rock,flying,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Sleeping Pokémon,Snorlax,143,normal,,0
+0.5,1,1,2,1,1,2,1,1,0.5,0,1,1,1,1,4,2,1,Freeze Pokémon,Articuno,144,ice,flying,1
+0.5,1,1,1,1,0.5,1,0.5,1,0.5,0,2,1,1,1,2,0.5,1,Electric Pokémon,Zapdos,145,electric,flying,1
+0.25,1,1,2,0.5,0.5,0.5,1,1,0.25,0,1,1,1,1,4,0.5,2,Flame Pokémon,Moltres,146,fire,flying,1
+1,1,2,0.5,2,1,0.5,1,1,0.5,1,2,1,1,1,1,1,0.5,Dragon Pokémon,Dratini,147,dragon,,0
+1,1,2,0.5,2,1,0.5,1,1,0.5,1,2,1,1,1,1,1,0.5,Dragon Pokémon,Dragonair,148,dragon,,0
+0.5,1,2,1,2,0.5,0.5,1,1,0.25,0,4,1,1,1,2,1,0.5,Dragon Pokémon,Dragonite,149,dragon,flying,0
+2,2,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,1,1,Genetic Pokémon,Mewtwo,150,psychic,,1
+2,2,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,1,1,New Species Pokémon,Mew,151,psychic,,1
+2,1,1,0.5,1,1,2,2,1,0.5,0.5,2,1,2,1,1,1,0.5,Leaf Pokémon,Chikorita,152,grass,,0
+2,1,1,0.5,1,1,2,2,1,0.5,0.5,2,1,2,1,1,1,0.5,Leaf Pokémon,Bayleef,153,grass,,0
+2,1,1,0.5,1,1,2,2,1,0.5,0.5,2,1,2,1,1,1,0.5,Herb Pokémon,Meganium,154,grass,,0
+0.5,1,1,1,0.5,1,0.5,1,1,0.5,2,0.5,1,1,1,2,0.5,2,Fire Mouse Pokémon,Cyndaquil,155,fire,,0
+0.5,1,1,1,0.5,1,0.5,1,1,0.5,2,0.5,1,1,1,2,0.5,2,Volcano Pokémon,Quilava,156,fire,,0
+0.5,1,1,1,0.5,1,0.5,1,1,0.5,2,0.5,1,1,1,2,0.5,2,Volcano Pokémon,Typhlosion,157,fire,,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Big Jaw Pokémon,Totodile,158,water,,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Big Jaw Pokémon,Croconaw,159,water,,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Big Jaw Pokémon,Feraligatr,160,water,,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Scout Pokémon,Sentret,161,normal,,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Long Body Pokémon,Furret,162,normal,,0
+0.5,1,1,2,1,1,1,1,0,0.5,0,2,1,1,1,2,1,1,Owl Pokémon,Hoothoot,163,normal,flying,0
+0.5,1,1,2,1,1,1,1,0,0.5,0,2,1,1,1,2,1,1,Owl Pokémon,Noctowl,164,normal,flying,0
+0.5,1,1,2,1,0.25,2,2,1,0.25,0,2,1,1,1,4,1,1,Five Star Pokémon,Ledyba,165,bug,flying,0
+0.5,1,1,2,1,0.25,2,2,1,0.25,0,2,1,1,1,4,1,1,Five Star Pokémon,Ledian,166,bug,flying,0
+0.5,1,1,1,0.5,0.25,2,2,1,0.25,1,1,1,0.5,2,2,1,1,String Spit Pokémon,Spinarak,167,bug,poison,0
+0.5,1,1,1,0.5,0.25,2,2,1,0.25,1,1,1,0.5,2,2,1,1,Long Leg Pokémon,Ariados,168,bug,poison,0
+0.25,1,1,2,0.5,0.25,1,1,1,0.25,0,2,1,0.5,2,2,1,1,Bat Pokémon,Crobat,169,poison,flying,0
+1,1,1,1,1,1,0.5,0.5,1,2,2,0.5,1,1,1,1,0.25,0.5,Angler Pokémon,Chinchou,170,water,electric,0
+1,1,1,1,1,1,0.5,0.5,1,2,2,0.5,1,1,1,1,0.25,0.5,Light Pokémon,Lanturn,171,water,electric,0
+1,1,1,0.5,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,Tiny Mouse Pokémon,Pichu,172,electric,,0
+0.5,0.5,0,1,1,0.5,1,1,1,1,1,1,1,2,1,1,2,1,Star Shape Pokémon,Cleffa,173,fairy,,0
+0.5,0.5,0,1,1,1,1,1,0,1,1,1,1,2,1,1,2,1,Balloon Pokémon,Igglybuff,174,normal,fairy,0
+0.5,0.5,0,1,1,0.5,1,1,1,1,1,1,1,2,1,1,2,1,Spike Ball Pokémon,Togepi,175,fairy,,0
+0.25,0.5,0,2,1,0.25,1,1,1,0.5,0,2,1,2,1,2,2,1,Happiness Pokémon,Togetic,176,fairy,flying,0
+1,2,1,2,1,0.25,1,1,2,0.5,0,2,1,1,0.5,2,1,1,Little Bird Pokémon,Natu,177,psychic,flying,0
+1,2,1,2,1,0.25,1,1,2,0.5,0,2,1,1,0.5,2,1,1,Mystic Pokémon,Xatu,178,psychic,flying,0
+1,1,1,0.5,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,Wool Pokémon,Mareep,179,electric,,0
+1,1,1,0.5,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,Wool Pokémon,Flaaffy,180,electric,,0
+1,1,1,0.5,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,Light Pokémon,Ampharos,181,electric,,0
+2,1,1,0.5,1,1,2,2,1,0.5,0.5,2,1,2,1,1,1,0.5,Flower Pokémon,Bellossom,182,grass,,0
+0.5,0.5,0,2,1,0.5,0.5,1,1,2,1,0.5,1,2,1,1,1,0.5,Aquamouse Pokémon,Marill,183,water,fairy,0
+0.5,0.5,0,2,1,0.5,0.5,1,1,2,1,0.5,1,2,1,1,1,0.5,Aquarabbit Pokémon,Azumarill,184,water,fairy,0
+1,1,1,1,1,2,0.5,0.5,1,2,2,1,0.5,0.5,1,1,2,2,Imitation Pokémon,Sudowoodo,185,rock,,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Frog Pokémon,Politoed,186,water,,0
+1,1,1,1,1,0.5,2,2,1,0.25,0,4,1,2,1,2,1,0.5,Cottonweed Pokémon,Hoppip,187,grass,flying,0
+1,1,1,1,1,0.5,2,2,1,0.25,0,4,1,2,1,2,1,0.5,Cottonweed Pokémon,Skiploom,188,grass,flying,0
+1,1,1,1,1,0.5,2,2,1,0.25,0,4,1,2,1,2,1,0.5,Cottonweed Pokémon,Jumpluff,189,grass,flying,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Long Tail Pokémon,Aipom,190,normal,,0
+2,1,1,0.5,1,1,2,2,1,0.5,0.5,2,1,2,1,1,1,0.5,Seed Pokémon,Sunkern,191,grass,,0
+2,1,1,0.5,1,1,2,2,1,0.5,0.5,2,1,2,1,1,1,0.5,Sun Pokémon,Sunflora,192,grass,,0
+0.5,1,1,2,1,0.25,2,2,1,0.25,0,2,1,1,1,4,1,1,Clear Wing Pokémon,Yanma,193,bug,flying,0
+1,1,1,0,1,1,0.5,1,1,4,1,1,1,0.5,1,0.5,0.5,1,Water Fish Pokémon,Wooper,194,water,ground,0
+1,1,1,0,1,1,0.5,1,1,4,1,1,1,0.5,1,0.5,0.5,1,Water Fish Pokémon,Quagsire,195,water,ground,0
+2,2,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,1,1,Sun Pokémon,Espeon,196,psychic,,0
+2,0.5,1,1,2,2,1,1,0.5,1,1,1,1,1,0,1,1,1,Moonlight Pokémon,Umbreon,197,dark,,0
+1,0.5,1,2,2,1,1,1,0.5,0.5,0,2,1,1,0,2,1,1,Darkness Pokémon,Murkrow,198,dark,flying,0
+2,2,1,2,1,0.5,0.5,1,2,2,1,0.5,1,1,0.5,1,0.5,0.5,Royal Pokémon,Slowking,199,water,psychic,0
+0.5,2,1,1,1,0,1,1,2,1,1,1,0,0.5,1,1,1,1,Screech Pokémon,Misdreavus,200,ghost,,0
+2,2,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,1,1,Symbol Pokémon,Unown,201,psychic,,0
+2,2,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,1,1,Patient Pokémon,Wobbuffet,202,psychic,,0
+2,2,1,1,1,1,1,1,0,1,1,1,1,1,0.5,1,1,1,Long Neck Pokémon,Girafarig,203,normal,psychic,0
+1,1,1,1,1,0.5,2,2,1,0.5,0.5,1,1,1,1,2,1,1,Bagworm Pokémon,Pineco,204,bug,,0
+0.5,1,0.5,1,0.5,1,4,1,1,0.25,1,0.5,0.5,0,0.5,1,0.5,1,Bagworm Pokémon,Forretress,205,bug,steel,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Land Snake Pokémon,Dunsparce,206,normal,,0
+0.5,1,1,0,1,0.5,1,1,1,1,0,4,1,0.5,1,1,1,2,Flyscorpion Pokémon,Gligar,207,ground,flying,0
+0.5,1,0.5,0,0.5,2,2,0.5,1,1,2,1,0.5,0,0.5,0.25,0.5,2,Iron Snake Pokémon,Steelix,208,steel,ground,0
+0.5,0.5,0,1,1,0.5,1,1,1,1,1,1,1,2,1,1,2,1,Fairy Pokémon,Snubbull,209,fairy,,0
+0.5,0.5,0,1,1,0.5,1,1,1,1,1,1,1,2,1,1,2,1,Fairy Pokémon,Granbull,210,fairy,,0
+0.5,1,1,2,0.5,0.5,0.5,1,1,1,2,0.5,1,0.5,2,1,0.5,0.5,Balloon Pokémon,Qwilfish,211,water,poison,0
+0.5,1,0.5,1,0.5,1,4,1,1,0.25,1,0.5,0.5,0,0.5,1,0.5,1,Pincer Pokémon,Scizor,212,bug,steel,0
+1,1,1,1,1,1,1,1,1,1,1,1,0.5,0.5,1,2,2,2,Mold Pokémon,Shuckle,213,bug,rock,0
+0.5,0.5,1,1,2,0.5,2,4,1,0.5,0.5,1,1,1,2,1,1,1,Singlehorn Pokémon,Heracross,214,bug,fighting,0
+2,0.5,1,1,2,4,2,1,0.5,1,1,0.5,1,1,0,2,2,1,Sharp Claw Pokémon,Sneasel,215,dark,ice,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Little Bear Pokémon,Teddiursa,216,normal,,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Hibernator Pokémon,Ursaring,217,normal,,0
+0.5,1,1,1,0.5,1,0.5,1,1,0.5,2,0.5,1,1,1,2,0.5,2,Lava Pokémon,Slugma,218,fire,,0
+0.5,1,1,1,0.5,2,0.25,0.5,1,1,4,0.5,0.5,0.5,1,2,1,4,Lava Pokémon,Magcargo,219,fire,rock,0
+1,1,1,0,1,2,2,1,1,2,1,1,1,0.5,1,1,2,2,Pig Pokémon,Swinub,220,ice,ground,0
+1,1,1,0,1,2,2,1,1,2,1,1,1,0.5,1,1,2,2,Swine Pokémon,Piloswine,221,ice,ground,0
+1,1,1,2,1,2,0.25,0.5,1,4,2,0.5,0.5,0.5,1,1,1,1,Coral Pokémon,Corsola,222,water,rock,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Jet Pokémon,Remoraid,223,water,,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Jet Pokémon,Octillery,224,water,,0
+0.5,1,1,2,1,1,2,1,1,0.5,0,1,1,1,1,4,2,1,Delivery Pokémon,Delibird,225,ice,flying,0
+0.5,1,1,4,1,0.5,0.5,1,1,1,0,1,1,1,1,2,0.5,0.5,Kite Pokémon,Mantine,226,water,flying,0
+0.25,1,0.5,2,0.5,1,2,0.5,1,0.25,0,1,0.5,0,0.5,1,0.5,1,Armor Bird Pokémon,Skarmory,227,steel,flying,0
+1,0.5,1,1,1,2,0.5,1,0.5,0.5,2,0.5,1,1,0,2,0.5,2,Dark Pokémon,Houndour,228,dark,fire,0
+1,0.5,1,1,1,2,0.5,1,0.5,0.5,2,0.5,1,1,0,2,0.5,2,Dark Pokémon,Houndoom,229,dark,fire,0
+1,1,2,1,2,1,0.25,1,1,1,1,1,1,1,1,1,0.5,0.25,Dragon Pokémon,Kingdra,230,water,dragon,0
+1,1,1,0,1,1,1,1,1,2,1,2,1,0.5,1,0.5,1,2,Long Nose Pokémon,Phanpy,231,ground,,0
+1,1,1,0,1,1,1,1,1,2,1,2,1,0.5,1,0.5,1,2,Armor Pokémon,Donphan,232,ground,,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Virtual Pokémon,Porygon2,233,normal,,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Big Horn Pokémon,Stantler,234,normal,,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Painter Pokémon,Smeargle,235,normal,,0
+0.5,0.5,1,1,2,1,1,2,1,1,1,1,1,1,2,0.5,1,1,Scuffle Pokémon,Tyrogue,236,fighting,,0
+0.5,0.5,1,1,2,1,1,2,1,1,1,1,1,1,2,0.5,1,1,Handstand Pokémon,Hitmontop,237,fighting,,0
+2,2,1,1,1,1,2,1,2,1,1,0.5,1,1,0.5,2,2,1,Kiss Pokémon,Smoochum,238,ice,psychic,0
+1,1,1,0.5,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,Electric Pokémon,Elekid,239,electric,,0
+0.5,1,1,1,0.5,1,0.5,1,1,0.5,2,0.5,1,1,1,2,0.5,2,Live Coal Pokémon,Magby,240,fire,,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Milk Cow Pokémon,Miltank,241,normal,,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Happiness Pokémon,Blissey,242,normal,,0
+1,1,1,0.5,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,Thunder Pokémon,Raikou,243,electric,,1
+0.5,1,1,1,0.5,1,0.5,1,1,0.5,2,0.5,1,1,1,2,0.5,2,Volcano Pokémon,Entei,244,fire,,1
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Aurora Pokémon,Suicune,245,water,,1
+1,1,1,0,1,2,0.5,0.5,1,4,2,2,0.5,0.25,1,0.5,2,4,Rock Skin Pokémon,Larvitar,246,rock,ground,0
+1,1,1,0,1,2,0.5,0.5,1,4,2,2,0.5,0.25,1,0.5,2,4,Hard Shell Pokémon,Pupitar,247,rock,ground,0
+2,0.5,1,1,2,4,0.5,0.5,0.5,2,2,1,0.5,0.5,0,1,2,2,Armor Pokémon,Tyranitar,248,rock,dark,0
+1,2,1,2,1,0.25,1,1,2,0.5,0,2,1,1,0.5,2,1,1,Diving Pokémon,Lugia,249,psychic,flying,1
+0.25,1,1,2,0.5,0.5,0.5,1,1,0.25,0,1,1,1,1,4,0.5,2,Rainbow Pokémon,Ho-Oh,250,fire,flying,1
+4,2,1,0.5,1,0.5,2,2,2,0.5,0.5,2,1,2,0.5,1,1,0.5,Time Travel Pokémon,Celebi,251,psychic,grass,1
+2,1,1,0.5,1,1,2,2,1,0.5,0.5,2,1,2,1,1,1,0.5,Wood Gecko Pokémon,Treecko,252,grass,,0
+2,1,1,0.5,1,1,2,2,1,0.5,0.5,2,1,2,1,1,1,0.5,Wood Gecko Pokémon,Grovyle,253,grass,,0
+2,1,1,0.5,1,1,2,2,1,0.5,0.5,2,1,2,1,1,1,0.5,Forest Pokémon,Sceptile,254,grass,,0
+0.5,1,1,1,0.5,1,0.5,1,1,0.5,2,0.5,1,1,1,2,0.5,2,Chick Pokémon,Torchic,255,fire,,0
+0.25,0.5,1,1,1,1,0.5,2,1,0.5,2,0.5,1,1,2,1,0.5,2,Young Fowl Pokémon,Combusken,256,fire,fighting,0
+0.25,0.5,1,1,1,1,0.5,2,1,0.5,2,0.5,1,1,2,1,0.5,2,Blaze Pokémon,Blaziken,257,fire,fighting,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Mud Fish Pokémon,Mudkip,258,water,,0
+1,1,1,0,1,1,0.5,1,1,4,1,1,1,0.5,1,0.5,0.5,1,Mud Fish Pokémon,Marshtomp,259,water,ground,0
+1,1,1,0,1,1,0.5,1,1,4,1,1,1,0.5,1,0.5,0.5,1,Mud Fish Pokémon,Swampert,260,water,ground,0
+2,0.5,1,1,2,2,1,1,0.5,1,1,1,1,1,0,1,1,1,Bite Pokémon,Poochyena,261,dark,,0
+2,0.5,1,1,2,2,1,1,0.5,1,1,1,1,1,0,1,1,1,Bite Pokémon,Mightyena,262,dark,,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Tiny Racoon Pokémon,Zigzagoon,263,normal,,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Rush Pokémon,Linoone,264,normal,,0
+1,1,1,1,1,0.5,2,2,1,0.5,0.5,1,1,1,1,2,1,1,Worm Pokémon,Wurmple,265,bug,,0
+1,1,1,1,1,0.5,2,2,1,0.5,0.5,1,1,1,1,2,1,1,Cocoon Pokémon,Silcoon,266,bug,,0
+0.5,1,1,2,1,0.25,2,2,1,0.25,0,2,1,1,1,4,1,1,Butterfly Pokémon,Beautifly,267,bug,flying,0
+1,1,1,1,1,0.5,2,2,1,0.5,0.5,1,1,1,1,2,1,1,Cocoon Pokémon,Cascoon,268,bug,,0
+0.5,1,1,1,0.5,0.25,2,2,1,0.25,1,1,1,0.5,2,2,1,1,Poison Moth Pokémon,Dustox,269,bug,poison,0
+2,1,1,1,1,1,1,2,1,1,0.5,1,1,2,1,1,0.5,0.25,Water Weed Pokémon,Lotad,270,water,grass,0
+2,1,1,1,1,1,1,2,1,1,0.5,1,1,2,1,1,0.5,0.25,Jolly Pokémon,Lombre,271,water,grass,0
+2,1,1,1,1,1,1,2,1,1,0.5,1,1,2,1,1,0.5,0.25,Carefree Pokémon,Ludicolo,272,water,grass,0
+2,1,1,0.5,1,1,2,2,1,0.5,0.5,2,1,2,1,1,1,0.5,Acorn Pokémon,Seedot,273,grass,,0
+4,0.5,1,0.5,2,2,2,2,0.5,0.5,0.5,2,1,2,0,1,1,0.5,Wily Pokémon,Nuzleaf,274,grass,dark,0
+4,0.5,1,0.5,2,2,2,2,0.5,0.5,0.5,2,1,2,0,1,1,0.5,Wickid Pokémon,Shiftry,275,grass,dark,0
+0.5,1,1,2,1,1,1,1,0,0.5,0,2,1,1,1,2,1,1,TinySwallow Pokémon,Taillow,276,normal,flying,0
+0.5,1,1,2,1,1,1,1,0,0.5,0,2,1,1,1,2,1,1,Swallow Pokémon,Swellow,277,normal,flying,0
+0.5,1,1,4,1,0.5,0.5,1,1,1,0,1,1,1,1,2,0.5,0.5,Seagull Pokémon,Wingull,278,water,flying,0
+0.5,1,1,4,1,0.5,0.5,1,1,1,0,1,1,1,1,2,0.5,0.5,Water Bird Pokémon,Pelipper,279,water,flying,0
+1,1,0,1,1,0.25,1,1,2,1,1,1,1,2,0.5,1,2,1,Feeling Pokémon,Ralts,280,psychic,fairy,0
+1,1,0,1,1,0.25,1,1,2,1,1,1,1,2,0.5,1,2,1,Emotion Pokémon,Kirlia,281,psychic,fairy,0
+1,1,0,1,1,0.25,1,1,2,1,1,1,1,2,0.5,1,2,1,Embrace Pokémon,Gardevoir,282,psychic,fairy,0
+1,1,1,2,1,0.5,1,2,1,1,0.5,0.5,1,1,1,2,0.5,0.5,Pond Skater Pokémon,Surskit,283,bug,water,0
+0.5,1,1,2,1,0.25,2,2,1,0.25,0,2,1,1,1,4,1,1,Eyeball Pokémon,Masquerain,284,bug,flying,0
+2,1,1,0.5,1,1,2,2,1,0.5,0.5,2,1,2,1,1,1,0.5,Mushroom Pokémon,Shroomish,285,grass,,0
+1,0.5,1,0.5,2,1,2,4,1,0.5,0.5,2,1,2,2,0.5,1,0.5,Mushroom Pokémon,Breloom,286,grass,fighting,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Slacker Pokémon,Slakoth,287,normal,,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Wild Monkey Pokémon,Vigoroth,288,normal,,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Lazy Pokémon,Slaking,289,normal,,0
+1,1,1,0,1,0.5,2,2,1,1,0.5,2,1,0.5,1,1,1,2,Trainee Pokémon,Nincada,290,bug,ground,0
+0.5,1,1,2,1,0.25,2,2,1,0.25,0,2,1,1,1,4,1,1,Ninja Pokémon,Ninjask,291,bug,flying,0
+0.5,2,1,1,1,0,2,2,2,0.5,0.5,1,0,0.5,1,2,1,1,Shed Pokémon,Shedinja,292,bug,ghost,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Whisper Pokémon,Whismur,293,normal,,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Big Voice Pokémon,Loudred,294,normal,,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Loud Noise Pokémon,Exploud,295,normal,,0
+0.5,0.5,1,1,2,1,1,2,1,1,1,1,1,1,2,0.5,1,1,Guts Pokémon,Makuhita,296,fighting,,0
+0.5,0.5,1,1,2,1,1,2,1,1,1,1,1,1,2,0.5,1,1,Arm Thrust Pokémon,Hariyama,297,fighting,,0
+0.5,0.5,0,1,1,1,1,1,0,1,1,1,1,2,1,1,2,1,Polka Dot Pokémon,Azurill,298,normal,fairy,0
+1,1,1,1,1,2,0.5,0.5,1,2,2,1,0.5,0.5,1,1,2,2,Compass Pokémon,Nosepass,299,rock,,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Kitten Pokémon,Skitty,300,normal,,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Prim Pokémon,Delcatty,301,normal,,0
+1,1,1,1,2,0,1,1,1,1,1,1,0,0.5,0,1,1,1,Darkness Pokémon,Sableye,302,dark,ghost,0
+0.25,0.5,0,1,0.5,1,2,0.5,1,0.5,2,0.5,0.5,0,0.5,0.5,1,1,Deceiver Pokémon,Mawile,303,steel,fairy,0
+0.5,1,0.5,1,0.5,4,1,0.25,1,1,4,0.5,0.25,0,0.5,0.5,1,2,Iron Armor Pokémon,Aron,304,steel,rock,0
+0.5,1,0.5,1,0.5,4,1,0.25,1,1,4,0.5,0.25,0,0.5,0.5,1,2,Iron Armor Pokémon,Lairon,305,steel,rock,0
+0.5,1,0.5,1,0.5,4,1,0.25,1,1,4,0.5,0.25,0,0.5,0.5,1,2,Iron Armor Pokémon,Aggron,306,steel,rock,0
+1,1,1,1,2,0.5,1,2,2,1,1,1,1,1,1,0.5,1,1,Meditate Pokémon,Meditite,307,fighting,psychic,0
+1,1,1,1,2,0.5,1,2,2,1,1,1,1,1,1,0.5,1,1,Meditate Pokémon,Medicham,308,fighting,psychic,0
+1,1,1,0.5,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,Lightning Pokémon,Electrike,309,electric,,0
+1,1,1,0.5,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,Discharge Pokémon,Manectric,310,electric,,0
+1,1,1,0.5,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,Cheering Pokémon,Plusle,311,electric,,0
+1,1,1,0.5,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,Cheering Pokémon,Minun,312,electric,,0
+1,1,1,1,1,0.5,2,2,1,0.5,0.5,1,1,1,1,2,1,1,Firefly Pokémon,Volbeat,313,bug,,0
+1,1,1,1,1,0.5,2,2,1,0.5,0.5,1,1,1,1,2,1,1,Firefly Pokémon,Illumise,314,bug,,0
+1,1,1,0.5,0.5,0.5,2,2,1,0.25,1,2,1,1,2,1,1,0.5,Thorn Pokémon,Roselia,315,grass,poison,0
+0.5,1,1,1,0.5,0.5,1,1,1,0.5,2,1,1,0.5,2,1,1,1,Stomach Pokémon,Gulpin,316,poison,,0
+0.5,1,1,1,0.5,0.5,1,1,1,0.5,2,1,1,0.5,2,1,1,1,Poison Bag Pokémon,Swalot,317,poison,,0
+2,0.5,1,2,2,2,0.5,1,0.5,2,1,0.5,1,1,0,1,0.5,0.5,Savage Pokémon,Carvanha,318,water,dark,0
+2,0.5,1,2,2,2,0.5,1,0.5,2,1,0.5,1,1,0,1,0.5,0.5,Brutal Pokémon,Sharpedo,319,water,dark,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Ball Whale Pokémon,Wailmer,320,water,,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Float Whale Pokémon,Wailord,321,water,,0
+0.5,1,1,0,0.5,1,0.5,1,1,1,2,1,1,0.5,1,1,0.5,4,Numb Pokémon,Numel,322,fire,ground,0
+0.5,1,1,0,0.5,1,0.5,1,1,1,2,1,1,0.5,1,1,0.5,4,Eruption Pokémon,Camerupt,323,fire,ground,0
+0.5,1,1,1,0.5,1,0.5,1,1,0.5,2,0.5,1,1,1,2,0.5,2,Coal Pokémon,Torkoal,324,fire,,0
+2,2,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,1,1,Bounce Pokémon,Spoink,325,psychic,,0
+2,2,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,1,1,Manipulate Pokémon,Grumpig,326,psychic,,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Spot Panda Pokémon,Spinda,327,normal,,0
+1,1,1,0,1,1,1,1,1,2,1,2,1,0.5,1,0.5,1,2,Ant Pit Pokémon,Trapinch,328,ground,,0
+1,1,2,0,2,1,0.5,1,1,1,1,4,1,0.5,1,0.5,1,1,Vibration Pokémon,Vibrava,329,ground,dragon,0
+1,1,2,0,2,1,0.5,1,1,1,1,4,1,0.5,1,0.5,1,1,Mystic Pokémon,Flygon,330,ground,dragon,0
+2,1,1,0.5,1,1,2,2,1,0.5,0.5,2,1,2,1,1,1,0.5,Cactus Pokémon,Cacnea,331,grass,,0
+4,0.5,1,0.5,2,2,2,2,0.5,0.5,0.5,2,1,2,0,1,1,0.5,Scarecrow Pokémon,Cacturne,332,grass,dark,0
+0.5,1,1,2,1,1,1,1,0,0.5,0,2,1,1,1,2,1,1,Cotton Bird Pokémon,Swablu,333,normal,flying,0
+0.5,1,2,1,2,0.5,0.5,1,1,0.25,0,4,1,1,1,2,1,0.5,Humming Pokémon,Altaria,334,dragon,flying,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Cat Ferret Pokémon,Zangoose,335,normal,,0
+0.5,1,1,1,0.5,0.5,1,1,1,0.5,2,1,1,0.5,2,1,1,1,Fang Snake Pokémon,Seviper,336,poison,,0
+2,2,1,1,1,1,0.5,0.5,2,2,2,1,0.5,0.5,0.5,1,2,2,Meteorite Pokémon,Lunatone,337,rock,psychic,0
+2,2,1,1,1,1,0.5,0.5,2,2,2,1,0.5,0.5,0.5,1,2,2,Meteorite Pokémon,Solrock,338,rock,psychic,0
+1,1,1,0,1,1,0.5,1,1,4,1,1,1,0.5,1,0.5,0.5,1,Whiskers Pokémon,Barboach,339,water,ground,0
+1,1,1,0,1,1,0.5,1,1,4,1,1,1,0.5,1,0.5,0.5,1,Whiskers Pokémon,Whiscash,340,water,ground,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Ruffian Pokémon,Corphish,341,water,,0
+2,0.5,1,2,2,2,0.5,1,0.5,2,1,0.5,1,1,0,1,0.5,0.5,Rogue Pokémon,Crawdaunt,342,water,dark,0
+2,2,1,0,1,0.5,1,1,2,2,1,2,1,0.5,0.5,0.5,1,2,Clay Doll Pokémon,Baltoy,343,ground,psychic,0
+2,2,1,0,1,0.5,1,1,2,2,1,2,1,0.5,0.5,0.5,1,2,Clay Doll Pokémon,Claydol,344,ground,psychic,0
+2,1,1,0.5,1,2,1,1,1,1,1,2,0.5,1,1,1,2,1,Sea Lily Pokémon,Lileep,345,rock,grass,0
+2,1,1,0.5,1,2,1,1,1,1,1,2,0.5,1,1,1,2,1,Barnacle Pokémon,Cradily,346,rock,grass,0
+1,1,1,1,1,1,1,1,1,1,1,1,0.5,0.5,1,2,2,2,Old Shrimp Pokémon,Anorith,347,rock,bug,0
+1,1,1,1,1,1,1,1,1,1,1,1,0.5,0.5,1,2,2,2,Plate Pokémon,Armaldo,348,rock,bug,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Fish Pokémon,Feebas,349,water,,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Tender Pokémon,Milotic,350,water,,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Weather Pokémon,Castform,351,normal,,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Color Swap Pokémon,Kecleon,352,normal,,0
+0.5,2,1,1,1,0,1,1,2,1,1,1,0,0.5,1,1,1,1,Puppet Pokémon,Shuppet,353,ghost,,0
+0.5,2,1,1,1,0,1,1,2,1,1,1,0,0.5,1,1,1,1,Marionette Pokémon,Banette,354,ghost,,0
+0.5,2,1,1,1,0,1,1,2,1,1,1,0,0.5,1,1,1,1,Requiem Pokémon,Duskull,355,ghost,,0
+0.5,2,1,1,1,0,1,1,2,1,1,1,0,0.5,1,1,1,1,Beckon Pokémon,Dusclops,356,ghost,,0
+1,1,1,1,1,0.5,2,2,1,0.25,0,4,1,2,1,2,1,0.5,Fruit Pokémon,Tropius,357,grass,flying,0
+2,2,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,1,1,Wind Chime Pokémon,Chimecho,358,psychic,,0
+2,0.5,1,1,2,2,1,1,0.5,1,1,1,1,1,0,1,1,1,Disaster Pokémon,Absol,359,dark,,0
+2,2,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,1,1,Bright Pokémon,Wynaut,360,psychic,,0
+1,1,1,1,1,2,2,1,1,1,1,0.5,1,1,1,2,2,1,Snow Hat Pokémon,Snorunt,361,ice,,0
+1,1,1,1,1,2,2,1,1,1,1,0.5,1,1,1,2,2,1,Face Pokémon,Glalie,362,ice,,0
+1,1,1,2,1,2,1,1,1,2,1,0.25,1,1,1,2,1,0.5,Clap Pokémon,Spheal,363,ice,water,0
+1,1,1,2,1,2,1,1,1,2,1,0.25,1,1,1,2,1,0.5,Ball Roll Pokémon,Sealeo,364,ice,water,0
+1,1,1,2,1,2,1,1,1,2,1,0.25,1,1,1,2,1,0.5,Ice Break Pokémon,Walrein,365,ice,water,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Bivalve Pokémon,Clamperl,366,water,,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Deep Sea Pokémon,Huntail,367,water,,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,South Sea Pokémon,Gorebyss,368,water,,0
+1,1,1,2,1,2,0.25,0.5,1,4,2,0.5,0.5,0.5,1,1,1,1,Longevity Pokémon,Relicanth,369,water,rock,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Rendezvous Pokémon,Luvdisc,370,water,,0
+1,1,2,0.5,2,1,0.5,1,1,0.5,1,2,1,1,1,1,1,0.5,Rock Head Pokémon,Bagon,371,dragon,,0
+1,1,2,0.5,2,1,0.5,1,1,0.5,1,2,1,1,1,1,1,0.5,Endurance Pokémon,Shelgon,372,dragon,,0
+0.5,1,2,1,2,0.5,0.5,1,1,0.25,0,4,1,1,1,2,1,0.5,Dragon Pokémon,Salamence,373,dragon,flying,0
+1,2,0.5,1,0.5,1,2,0.5,2,0.5,2,0.5,0.5,0,0.25,0.5,0.5,1,Iron Ball Pokémon,Beldum,374,steel,psychic,0
+1,2,0.5,1,0.5,1,2,0.5,2,0.5,2,0.5,0.5,0,0.25,0.5,0.5,1,Iron Claw Pokémon,Metang,375,steel,psychic,0
+1,2,0.5,1,0.5,1,2,0.5,2,0.5,2,0.5,0.5,0,0.25,0.5,0.5,1,Iron Leg Pokémon,Metagross,376,steel,psychic,0
+1,1,1,1,1,2,0.5,0.5,1,2,2,1,0.5,0.5,1,1,2,2,Rock Peak Pokémon,Regirock,377,rock,,1
+1,1,1,1,1,2,2,1,1,1,1,0.5,1,1,1,2,2,1,Iceberg Pokémon,Regice,378,ice,,1
+0.5,1,0.5,1,0.5,2,2,0.5,1,0.5,2,0.5,0.5,0,0.5,0.5,0.5,1,Iron Pokémon,Registeel,379,steel,,1
+2,2,2,0.5,2,0.5,0.5,1,2,0.5,1,2,1,1,0.5,1,1,0.5,Eon Pokémon,Latias,380,dragon,psychic,1
+2,2,2,0.5,2,0.5,0.5,1,2,0.5,1,2,1,1,0.5,1,1,0.5,Eon Pokémon,Latios,381,dragon,psychic,1
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Sea Basin Pokémon,Kyogre,382,water,,1
+1,1,1,0,1,1,1,1,1,2,1,2,1,0.5,1,0.5,1,2,Continent Pokémon,Groudon,383,ground,,1
+0.5,1,2,1,2,0.5,0.5,1,1,0.25,0,4,1,1,1,2,1,0.5,Sky High Pokémon,Rayquaza,384,dragon,flying,1
+1,2,0.5,1,0.5,1,2,0.5,2,0.5,2,0.5,0.5,0,0.25,0.5,0.5,1,Wish Pokémon,Jirachi,385,steel,psychic,1
+2,2,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,1,1,DNA Pokémon,Deoxys,386,psychic,,1
+2,1,1,0.5,1,1,2,2,1,0.5,0.5,2,1,2,1,1,1,0.5,Tiny Leaf Pokémon,Turtwig,387,grass,,0
+2,1,1,0.5,1,1,2,2,1,0.5,0.5,2,1,2,1,1,1,0.5,Grove Pokémon,Grotle,388,grass,,0
+2,1,1,0,1,1,2,2,1,1,0.5,4,1,1,1,0.5,1,1,Continent Pokémon,Torterra,389,grass,ground,0
+0.5,1,1,1,0.5,1,0.5,1,1,0.5,2,0.5,1,1,1,2,0.5,2,Chimp Pokémon,Chimchar,390,fire,,0
+0.25,0.5,1,1,1,1,0.5,2,1,0.5,2,0.5,1,1,2,1,0.5,2,Playful Pokémon,Monferno,391,fire,fighting,0
+0.25,0.5,1,1,1,1,0.5,2,1,0.5,2,0.5,1,1,2,1,0.5,2,Flame Pokémon,Infernape,392,fire,fighting,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Penguin Pokémon,Piplup,393,water,,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Penguin Pokémon,Prinplup,394,water,,0
+0.5,1,0.5,2,0.5,2,1,0.5,1,1,2,0.25,0.5,0,0.5,0.5,0.25,0.5,Emperor Pokémon,Empoleon,395,water,steel,0
+0.5,1,1,2,1,1,1,1,0,0.5,0,2,1,1,1,2,1,1,Starling Pokémon,Starly,396,normal,flying,0
+0.5,1,1,2,1,1,1,1,0,0.5,0,2,1,1,1,2,1,1,Starling Pokémon,Staravia,397,normal,flying,0
+0.5,1,1,2,1,1,1,1,0,0.5,0,2,1,1,1,2,1,1,Predator Pokémon,Staraptor,398,normal,flying,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Plump Mouse Pokémon,Bidoof,399,normal,,0
+1,1,1,2,1,2,0.5,1,0,2,1,0.5,1,1,1,1,0.5,0.5,Beaver Pokémon,Bibarel,400,normal,water,0
+1,1,1,1,1,0.5,2,2,1,0.5,0.5,1,1,1,1,2,1,1,Cricket Pokémon,Kricketot,401,bug,,0
+1,1,1,1,1,0.5,2,2,1,0.5,0.5,1,1,1,1,2,1,1,Cricket Pokémon,Kricketune,402,bug,,0
+1,1,1,0.5,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,Flash Pokémon,Shinx,403,electric,,0
+1,1,1,0.5,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,Spark Pokémon,Luxio,404,electric,,0
+1,1,1,0.5,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,Gleam Eyes Pokémon,Luxray,405,electric,,0
+1,1,1,0.5,0.5,0.5,2,2,1,0.25,1,2,1,1,2,1,1,0.5,Bud Pokémon,Budew,406,grass,poison,0
+1,1,1,0.5,0.5,0.5,2,2,1,0.25,1,2,1,1,2,1,1,0.5,Bouquet Pokémon,Roserade,407,grass,poison,0
+1,1,1,1,1,2,0.5,0.5,1,2,2,1,0.5,0.5,1,1,2,2,Head Butt Pokémon,Cranidos,408,rock,,0
+1,1,1,1,1,2,0.5,0.5,1,2,2,1,0.5,0.5,1,1,2,2,Head Butt Pokémon,Rampardos,409,rock,,0
+0.5,1,0.5,1,0.5,4,1,0.25,1,1,4,0.5,0.25,0,0.5,0.5,1,2,Shield Pokémon,Shieldon,410,rock,steel,0
+0.5,1,0.5,1,0.5,4,1,0.25,1,1,4,0.5,0.25,0,0.5,0.5,1,2,Shield Pokémon,Bastiodon,411,rock,steel,0
+1,1,1,1,1,0.5,2,2,1,0.5,0.5,1,1,1,1,2,1,1,Bagworm Pokémon,Burmy,412,bug,,0
+2,1,1,0.5,1,0.5,4,4,1,0.25,0.25,2,1,2,1,2,1,0.5,Bagworm Pokémon,Wormadam,413,bug,grass,0
+0.5,1,1,2,1,0.25,2,2,1,0.25,0,2,1,1,1,4,1,1,Moth Pokémon,Mothim,414,bug,flying,0
+0.5,1,1,2,1,0.25,2,2,1,0.25,0,2,1,1,1,4,1,1,Tiny Bee Pokémon,Combee,415,bug,flying,0
+0.5,1,1,2,1,0.25,2,2,1,0.25,0,2,1,1,1,4,1,1,Beehive Pokémon,Vespiquen,416,bug,flying,0
+1,1,1,0.5,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,EleSquirrel Pokémon,Pachirisu,417,electric,,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Sea Weasel Pokémon,Buizel,418,water,,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Sea Weasel Pokémon,Floatzel,419,water,,0
+2,1,1,0.5,1,1,2,2,1,0.5,0.5,2,1,2,1,1,1,0.5,Cherry Pokémon,Cherubi,420,grass,,0
+2,1,1,0.5,1,1,2,2,1,0.5,0.5,2,1,2,1,1,1,0.5,Blossom Pokémon,Cherrim,421,grass,,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Sea Slug Pokémon,Shellos,422,water,,0
+1,1,1,0,1,1,0.5,1,1,4,1,1,1,0.5,1,0.5,0.5,1,Sea Slug Pokémon,Gastrodon,423,water,ground,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Long Tail Pokémon,Ambipom,424,normal,,0
+0.25,2,1,2,1,0,1,1,2,0.5,0,2,0,0.5,1,2,1,1,Balloon Pokémon,Drifloon,425,ghost,flying,0
+0.25,2,1,2,1,0,1,1,2,0.5,0,2,0,0.5,1,2,1,1,Blimp Pokémon,Drifblim,426,ghost,flying,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Rabbit Pokémon,Buneary,427,normal,,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Rabbit Pokémon,Lopunny,428,normal,,0
+0.5,2,1,1,1,0,1,1,2,1,1,1,0,0.5,1,1,1,1,Magical Pokémon,Mismagius,429,ghost,,0
+1,0.5,1,2,2,1,1,1,0.5,0.5,0,2,1,1,0,2,1,1,Big Boss Pokémon,Honchkrow,430,dark,flying,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Catty Pokémon,Glameow,431,normal,,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Tiger Cat Pokémon,Purugly,432,normal,,0
+2,2,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,1,1,Bell Pokémon,Chingling,433,psychic,,0
+1,0.5,1,1,1,1,1,1,0.5,0.5,2,1,1,0.5,0,1,1,1,Skunk Pokémon,Stunky,434,poison,dark,0
+1,0.5,1,1,1,1,1,1,0.5,0.5,2,1,1,0.5,0,1,1,1,Skunk Pokémon,Skuntank,435,poison,dark,0
+1,2,0.5,1,0.5,1,2,0.5,2,0.5,2,0.5,0.5,0,0.25,0.5,0.5,1,Bronze Pokémon,Bronzor,436,steel,psychic,0
+1,2,0.5,1,0.5,1,2,0.5,2,0.5,2,0.5,0.5,0,0.25,0.5,0.5,1,Bronze Bell Pokémon,Bronzong,437,steel,psychic,0
+1,1,1,1,1,2,0.5,0.5,1,2,2,1,0.5,0.5,1,1,2,2,Bonsai Pokémon,Bonsly,438,rock,,0
+1,1,0,1,1,0.25,1,1,2,1,1,1,1,2,0.5,1,2,1,Mime Pokémon,Mime Jr.,439,psychic,fairy,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Playhouse Pokémon,Happiny,440,normal,,0
+0.5,1,1,2,1,1,1,1,0,0.5,0,2,1,1,1,2,1,1,Music Note Pokémon,Chatot,441,normal,flying,0
+1,1,1,1,2,0,1,1,1,1,1,1,0,0.5,0,1,1,1,Forbidden Pokémon,Spiritomb,442,ghost,dark,0
+1,1,2,0,2,1,0.5,1,1,1,1,4,1,0.5,1,0.5,1,1,Land Shark Pokémon,Gible,443,dragon,ground,0
+1,1,2,0,2,1,0.5,1,1,1,1,4,1,0.5,1,0.5,1,1,Cave Pokémon,Gabite,444,dragon,ground,0
+1,1,2,0,2,1,0.5,1,1,1,1,4,1,0.5,1,0.5,1,1,Mach Pokémon,Garchomp,445,dragon,ground,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Big Eater Pokémon,Munchlax,446,normal,,0
+0.5,0.5,1,1,2,1,1,2,1,1,1,1,1,1,2,0.5,1,1,Emanation Pokémon,Riolu,447,fighting,,0
+0.25,0.5,0.5,1,1,2,2,1,1,0.5,2,0.5,0.5,0,1,0.25,0.5,1,Aura Pokémon,Lucario,448,fighting,steel,0
+1,1,1,0,1,1,1,1,1,2,1,2,1,0.5,1,0.5,1,2,Hippo Pokémon,Hippopotas,449,ground,,0
+1,1,1,0,1,1,1,1,1,2,1,2,1,0.5,1,0.5,1,2,Heavyweight Pokémon,Hippowdon,450,ground,,0
+0.5,1,1,1,0.5,0.25,2,2,1,0.25,1,1,1,0.5,2,2,1,1,Scorpion Pokémon,Skorupi,451,poison,bug,0
+1,0.5,1,1,1,1,1,1,0.5,0.5,2,1,1,0.5,0,1,1,1,Ogre Scorp Pokémon,Drapion,452,poison,dark,0
+0.25,0.5,1,1,1,0.5,1,2,1,0.5,2,1,1,0.5,4,0.5,1,1,Toxic Mouth Pokémon,Croagunk,453,poison,fighting,0
+0.25,0.5,1,1,1,0.5,1,2,1,0.5,2,1,1,0.5,4,0.5,1,1,Toxic Mouth Pokémon,Toxicroak,454,poison,fighting,0
+2,1,1,0.5,1,1,2,2,1,0.5,0.5,2,1,2,1,1,1,0.5,Bug Catcher Pokémon,Carnivine,455,grass,,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Wing Fish Pokémon,Finneon,456,water,,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Neon Pokémon,Lumineon,457,water,,0
+0.5,1,1,4,1,0.5,0.5,1,1,1,0,1,1,1,1,2,0.5,0.5,Kite Pokémon,Mantyke,458,water,flying,0
+2,1,1,0.5,1,2,4,2,1,0.5,0.5,1,1,2,1,2,2,0.5,Frosted Tree Pokémon,Snover,459,grass,ice,0
+2,1,1,0.5,1,2,4,2,1,0.5,0.5,1,1,2,1,2,2,0.5,Frosted Tree Pokémon,Abomasnow,460,grass,ice,0
+2,0.5,1,1,2,4,2,1,0.5,1,1,0.5,1,1,0,2,2,1,Sharp Claw Pokémon,Weavile,461,dark,ice,0
+0.5,1,0.5,0.5,0.5,2,2,0.25,1,0.5,4,0.5,0.5,0,0.5,0.5,0.25,1,Magnet Area Pokémon,Magnezone,462,electric,steel,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Licking Pokémon,Lickilicky,463,normal,,0
+1,1,1,0,1,2,0.5,0.5,1,4,2,2,0.5,0.25,1,0.5,2,4,Drill Pokémon,Rhyperior,464,ground,rock,0
+2,1,1,0.5,1,1,2,2,1,0.5,0.5,2,1,2,1,1,1,0.5,Vine Pokémon,Tangrowth,465,grass,,0
+1,1,1,0.5,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,Thunderbolt Pokémon,Electivire,466,electric,,0
+0.5,1,1,1,0.5,1,0.5,1,1,0.5,2,0.5,1,1,1,2,0.5,2,Blast Pokémon,Magmortar,467,fire,,0
+0.25,0.5,0,2,1,0.25,1,1,1,0.5,0,2,1,2,1,2,2,1,Jubilee Pokémon,Togekiss,468,fairy,flying,0
+0.5,1,1,2,1,0.25,2,2,1,0.25,0,2,1,1,1,4,1,1,Ogre Darner Pokémon,Yanmega,469,bug,flying,0
+2,1,1,0.5,1,1,2,2,1,0.5,0.5,2,1,2,1,1,1,0.5,Verdant Pokémon,Leafeon,470,grass,,0
+1,1,1,1,1,2,2,1,1,1,1,0.5,1,1,1,2,2,1,Fresh Snow Pokémon,Glaceon,471,ice,,0
+0.5,1,1,0,1,0.5,1,1,1,1,0,4,1,0.5,1,1,1,2,Fang Scorp Pokémon,Gliscor,472,ground,flying,0
+1,1,1,0,1,2,2,1,1,2,1,1,1,0.5,1,1,2,2,Twin Tusk Pokémon,Mamoswine,473,ice,ground,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Virtual Pokémon,Porygon-Z,474,normal,,0
+1,1,1,1,2,0.5,1,2,2,1,1,1,1,1,1,0.5,1,1,Blade Pokémon,Gallade,475,psychic,fighting,0
+0.5,1,0.5,1,0.5,4,1,0.25,1,1,4,0.5,0.25,0,0.5,0.5,1,2,Compass Pokémon,Probopass,476,rock,steel,0
+0.5,2,1,1,1,0,1,1,2,1,1,1,0,0.5,1,1,1,1,Gripper Pokémon,Dusknoir,477,ghost,,0
+0.5,2,1,1,1,0,2,1,2,1,1,0.5,0,0.5,1,2,2,1,Snow Land Pokémon,Froslass,478,ice,ghost,0
+0.5,2,1,0.5,1,0,1,0.5,2,1,2,1,0,0.5,1,1,0.5,1,Plasma Pokémon,Rotom,479,electric,ghost,0
+2,2,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,1,1,Knowledge Pokémon,Uxie,480,psychic,,1
+2,2,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,1,1,Emotion Pokémon,Mesprit,481,psychic,,1
+2,2,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,1,1,Willpower Pokémon,Azelf,482,psychic,,1
+0.5,1,1,0.5,1,2,1,0.5,1,0.25,2,1,0.5,0,0.5,0.5,0.5,0.5,Temporal Pokémon,Dialga,483,steel,dragon,1
+1,1,2,1,2,1,0.25,1,1,1,1,1,1,1,1,1,0.5,0.25,Spatial Pokémon,Palkia,484,water,dragon,1
+0.25,1,0.5,1,0.25,2,1,0.5,1,0.25,4,0.25,0.5,0,0.5,1,0.25,2,Lava Dome Pokémon,Heatran,485,fire,steel,1
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Colossal Pokémon,Regigigas,486,normal,,1
+0.5,2,2,0.5,2,0,0.5,1,2,0.5,1,2,0,0.5,1,1,1,0.5,Renegade Pokémon,Giratina,487,ghost,dragon,1
+2,2,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,1,1,Lunar Pokémon,Cresselia,488,psychic,,1
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Sea Drifter Pokémon,Phione,489,water,,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Seafaring Pokémon,Manaphy,490,water,,1
+2,0.5,1,1,2,2,1,1,0.5,1,1,1,1,1,0,1,1,1,Pitch-Black Pokémon,Darkrai,491,dark,,1
+2,1,1,0.5,1,1,2,2,1,0.5,0.5,2,1,2,1,1,1,0.5,Gratitude Pokémon,Shaymin,492,grass,grass,1
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Alpha Pokémon,Arceus,493,normal,,1
+1,2,1,1,0.5,0.5,0.5,1,2,0.5,2,0.5,1,1,0.5,2,0.5,2,Victory Pokémon,Victini,494,psychic,fire,1
+2,1,1,0.5,1,1,2,2,1,0.5,0.5,2,1,2,1,1,1,0.5,Grass Snake Pokémon,Snivy,495,grass,,0
+2,1,1,0.5,1,1,2,2,1,0.5,0.5,2,1,2,1,1,1,0.5,Grass Snake Pokémon,Servine,496,grass,,0
+2,1,1,0.5,1,1,2,2,1,0.5,0.5,2,1,2,1,1,1,0.5,Regal Pokémon,Serperior,497,grass,,0
+0.5,1,1,1,0.5,1,0.5,1,1,0.5,2,0.5,1,1,1,2,0.5,2,Fire Pig Pokémon,Tepig,498,fire,,0
+0.25,0.5,1,1,1,1,0.5,2,1,0.5,2,0.5,1,1,2,1,0.5,2,Fire Pig Pokémon,Pignite,499,fire,fighting,0
+0.25,0.5,1,1,1,1,0.5,2,1,0.5,2,0.5,1,1,2,1,0.5,2,Mega Fire Pig Pokémon,Emboar,500,fire,fighting,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Sea Otter Pokémon,Oshawott,501,water,,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Discipline Pokémon,Dewott,502,water,,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Formidable Pokémon,Samurott,503,water,,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Scout Pokémon,Patrat,504,normal,,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Lookout Pokémon,Watchog,505,normal,,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Puppy Pokémon,Lillipup,506,normal,,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Loyal Dog Pokémon,Herdier,507,normal,,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Big-Hearted Pokémon,Stoutland,508,normal,,0
+2,0.5,1,1,2,2,1,1,0.5,1,1,1,1,1,0,1,1,1,Devious Pokémon,Purrloin,509,dark,,0
+2,0.5,1,1,2,2,1,1,0.5,1,1,1,1,1,0,1,1,1,Cruel Pokémon,Liepard,510,dark,,0
+2,1,1,0.5,1,1,2,2,1,0.5,0.5,2,1,2,1,1,1,0.5,Grass Monkey Pokémon,Pansage,511,grass,,0
+2,1,1,0.5,1,1,2,2,1,0.5,0.5,2,1,2,1,1,1,0.5,Thorn Monkey Pokémon,Simisage,512,grass,,0
+0.5,1,1,1,0.5,1,0.5,1,1,0.5,2,0.5,1,1,1,2,0.5,2,High Temp Pokémon,Pansear,513,fire,,0
+0.5,1,1,1,0.5,1,0.5,1,1,0.5,2,0.5,1,1,1,2,0.5,2,Ember Pokémon,Simisear,514,fire,,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Spray Pokémon,Panpour,515,water,,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Geyser Pokémon,Simipour,516,water,,0
+2,2,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,1,1,Dream Eater Pokémon,Munna,517,psychic,,0
+2,2,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,1,1,Drowsing Pokémon,Musharna,518,psychic,,0
+0.5,1,1,2,1,1,1,1,0,0.5,0,2,1,1,1,2,1,1,Tiny Pigeon Pokémon,Pidove,519,normal,flying,0
+0.5,1,1,2,1,1,1,1,0,0.5,0,2,1,1,1,2,1,1,Wild Pigeon Pokémon,Tranquill,520,normal,flying,0
+0.5,1,1,2,1,1,1,1,0,0.5,0,2,1,1,1,2,1,1,Proud Pokémon,Unfezant,521,normal,flying,0
+1,1,1,0.5,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,Electrified Pokémon,Blitzle,522,electric,,0
+1,1,1,0.5,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,Thunderbolt Pokémon,Zebstrika,523,electric,,0
+1,1,1,1,1,2,0.5,0.5,1,2,2,1,0.5,0.5,1,1,2,2,Mantle Pokémon,Roggenrola,524,rock,,0
+1,1,1,1,1,2,0.5,0.5,1,2,2,1,0.5,0.5,1,1,2,2,Ore Pokémon,Boldore,525,rock,,0
+1,1,1,1,1,2,0.5,0.5,1,2,2,1,0.5,0.5,1,1,2,2,Compressed Pokémon,Gigalith,526,rock,,0
+1,2,1,2,1,0.25,1,1,2,0.5,0,2,1,1,0.5,2,1,1,Bat Pokémon,Woobat,527,psychic,flying,0
+1,2,1,2,1,0.25,1,1,2,0.5,0,2,1,1,0.5,2,1,1,Courting Pokémon,Swoobat,528,psychic,flying,0
+1,1,1,0,1,1,1,1,1,2,1,2,1,0.5,1,0.5,1,2,Mole Pokémon,Drilbur,529,ground,,0
+0.5,1,0.5,0,0.5,2,2,0.5,1,1,2,1,0.5,0,0.5,0.25,0.5,2,Subterrene Pokémon,Excadrill,530,ground,steel,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Hearing Pokémon,Audino,531,normal,,0
+0.5,0.5,1,1,2,1,1,2,1,1,1,1,1,1,2,0.5,1,1,Muscular Pokémon,Timburr,532,fighting,,0
+0.5,0.5,1,1,2,1,1,2,1,1,1,1,1,1,2,0.5,1,1,Muscular Pokémon,Gurdurr,533,fighting,,0
+0.5,0.5,1,1,2,1,1,2,1,1,1,1,1,1,2,0.5,1,1,Muscular Pokémon,Conkeldurr,534,fighting,,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Tadpole Pokémon,Tympole,535,water,,0
+1,1,1,0,1,1,0.5,1,1,4,1,1,1,0.5,1,0.5,0.5,1,Vibration Pokémon,Palpitoad,536,water,ground,0
+1,1,1,0,1,1,0.5,1,1,4,1,1,1,0.5,1,0.5,0.5,1,Vibration Pokémon,Seismitoad,537,water,ground,0
+0.5,0.5,1,1,2,1,1,2,1,1,1,1,1,1,2,0.5,1,1,Judo Pokémon,Throh,538,fighting,,0
+0.5,0.5,1,1,2,1,1,2,1,1,1,1,1,1,2,0.5,1,1,Karate Pokémon,Sawk,539,fighting,,0
+2,1,1,0.5,1,0.5,4,4,1,0.25,0.25,2,1,2,1,2,1,0.5,Sewing Pokémon,Sewaddle,540,bug,grass,0
+2,1,1,0.5,1,0.5,4,4,1,0.25,0.25,2,1,2,1,2,1,0.5,Leaf-Wrapped Pokémon,Swadloon,541,bug,grass,0
+2,1,1,0.5,1,0.5,4,4,1,0.25,0.25,2,1,2,1,2,1,0.5,Nurturing Pokémon,Leavanny,542,bug,grass,0
+0.5,1,1,1,0.5,0.25,2,2,1,0.25,1,1,1,0.5,2,2,1,1,Centipede Pokémon,Venipede,543,bug,poison,0
+0.5,1,1,1,0.5,0.25,2,2,1,0.25,1,1,1,0.5,2,2,1,1,Curlipede Pokémon,Whirlipede,544,bug,poison,0
+0.5,1,1,1,0.5,0.25,2,2,1,0.25,1,1,1,0.5,2,2,1,1,Megapede Pokémon,Scolipede,545,bug,poison,0
+1,0.5,0,0.5,1,0.5,2,2,1,0.5,0.5,2,1,4,1,1,2,0.5,Cotton Puff Pokémon,Cottonee,546,grass,fairy,0
+1,0.5,0,0.5,1,0.5,2,2,1,0.5,0.5,2,1,4,1,1,2,0.5,Windveiled Pokémon,Whimsicott,547,grass,fairy,0
+2,1,1,0.5,1,1,2,2,1,0.5,0.5,2,1,2,1,1,1,0.5,Bulb Pokémon,Petilil,548,grass,,0
+2,1,1,0.5,1,1,2,2,1,0.5,0.5,2,1,2,1,1,1,0.5,Flowering Pokémon,Lilligant,549,grass,,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Hostile Pokémon,Basculin,550,water,,0
+2,0.5,1,0,2,2,1,1,0.5,2,1,2,1,0.5,0,0.5,1,2,Desert Croc Pokémon,Sandile,551,ground,dark,0
+2,0.5,1,0,2,2,1,1,0.5,2,1,2,1,0.5,0,0.5,1,2,Desert Croc Pokémon,Krokorok,552,ground,dark,0
+2,0.5,1,0,2,2,1,1,0.5,2,1,2,1,0.5,0,0.5,1,2,Intimidation Pokémon,Krookodile,553,ground,dark,0
+0.5,1,1,1,0.5,1,0.5,1,1,0.5,2,0.5,1,1,1,2,0.5,2,Zen Charm Pokémon,Darumaka,554,fire,,0
+0.5,1,1,1,0.5,1,0.5,1,1,0.5,2,0.5,1,1,1,2,0.5,2,Blazing Pokémon,Darmanitan,555,fire,fire,0
+2,1,1,0.5,1,1,2,2,1,0.5,0.5,2,1,2,1,1,1,0.5,Cactus Pokémon,Maractus,556,grass,,0
+1,1,1,1,1,1,1,1,1,1,1,1,0.5,0.5,1,2,2,2,Rock Inn Pokémon,Dwebble,557,bug,rock,0
+1,1,1,1,1,1,1,1,1,1,1,1,0.5,0.5,1,2,2,2,Stone Home Pokémon,Crustle,558,bug,rock,0
+1,0.25,1,1,4,2,1,2,0.5,1,1,1,1,1,0,0.5,1,1,Shedding Pokémon,Scraggy,559,dark,fighting,0
+1,0.25,1,1,4,2,1,2,0.5,1,1,1,1,1,0,0.5,1,1,Hoodlum Pokémon,Scrafty,560,dark,fighting,0
+1,2,1,2,1,0.25,1,1,2,0.5,0,2,1,1,0.5,2,1,1,Avianoid Pokémon,Sigilyph,561,psychic,flying,0
+0.5,2,1,1,1,0,1,1,2,1,1,1,0,0.5,1,1,1,1,Spirit Pokémon,Yamask,562,ghost,,0
+0.5,2,1,1,1,0,1,1,2,1,1,1,0,0.5,1,1,1,1,Coffin Pokémon,Cofagrigus,563,ghost,,0
+1,1,1,2,1,2,0.25,0.5,1,4,2,0.5,0.5,0.5,1,1,1,1,Prototurtle Pokémon,Tirtouga,564,water,rock,0
+1,1,1,2,1,2,0.25,0.5,1,4,2,0.5,0.5,0.5,1,1,1,1,Prototurtle Pokémon,Carracosta,565,water,rock,0
+0.5,1,1,2,1,1,0.5,0.5,1,1,0,2,0.5,0.5,1,2,2,2,First Bird Pokémon,Archen,566,rock,flying,0
+0.5,1,1,2,1,1,0.5,0.5,1,1,0,2,0.5,0.5,1,2,2,2,First Bird Pokémon,Archeops,567,rock,flying,0
+0.5,1,1,1,0.5,0.5,1,1,1,0.5,2,1,1,0.5,2,1,1,1,Trash Bag Pokémon,Trubbish,568,poison,,0
+0.5,1,1,1,0.5,0.5,1,1,1,0.5,2,1,1,0.5,2,1,1,1,Trash Heap Pokémon,Garbodor,569,poison,,0
+2,0.5,1,1,2,2,1,1,0.5,1,1,1,1,1,0,1,1,1,Tricky Fox Pokémon,Zorua,570,dark,,0
+2,0.5,1,1,2,2,1,1,0.5,1,1,1,1,1,0,1,1,1,Illusion Fox Pokémon,Zoroark,571,dark,,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Chinchilla Pokémon,Minccino,572,normal,,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Scarf Pokémon,Cinccino,573,normal,,0
+2,2,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,1,1,Fixation Pokémon,Gothita,574,psychic,,0
+2,2,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,1,1,Manipulate Pokémon,Gothorita,575,psychic,,0
+2,2,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,1,1,Astral Body Pokémon,Gothitelle,576,psychic,,0
+2,2,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,1,1,Cell Pokémon,Solosis,577,psychic,,0
+2,2,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,1,1,Mitosis Pokémon,Duosion,578,psychic,,0
+2,2,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,1,1,Multiplying Pokémon,Reuniclus,579,psychic,,0
+0.5,1,1,4,1,0.5,0.5,1,1,1,0,1,1,1,1,2,0.5,0.5,Water Bird Pokémon,Ducklett,580,water,flying,0
+0.5,1,1,4,1,0.5,0.5,1,1,1,0,1,1,1,1,2,0.5,0.5,White Bird Pokémon,Swanna,581,water,flying,0
+1,1,1,1,1,2,2,1,1,1,1,0.5,1,1,1,2,2,1,Fresh Snow Pokémon,Vanillite,582,ice,,0
+1,1,1,1,1,2,2,1,1,1,1,0.5,1,1,1,2,2,1,Icy Snow Pokémon,Vanillish,583,ice,,0
+1,1,1,1,1,2,2,1,1,1,1,0.5,1,1,1,2,2,1,Snowstorm Pokémon,Vanilluxe,584,ice,,0
+2,1,1,0.5,1,2,2,2,0,0.5,0.5,2,1,2,1,1,1,0.5,Season Pokémon,Deerling,585,normal,grass,0
+2,1,1,0.5,1,2,2,2,0,0.5,0.5,2,1,2,1,1,1,0.5,Season Pokémon,Sawsbuck,586,normal,grass,0
+0.5,1,1,1,1,0.5,1,0.5,1,0.5,0,2,1,1,1,2,0.5,1,Sky Squirrel Pokémon,Emolga,587,electric,flying,0
+1,1,1,1,1,0.5,2,2,1,0.5,0.5,1,1,1,1,2,1,1,Clamping Pokémon,Karrablast,588,bug,,0
+0.5,1,0.5,1,0.5,1,4,1,1,0.25,1,0.5,0.5,0,0.5,1,0.5,1,Cavalry Pokémon,Escavalier,589,bug,steel,0
+1,1,1,0.5,0.5,0.5,2,2,1,0.25,1,2,1,1,2,1,1,0.5,Mushroom Pokémon,Foongus,590,grass,poison,0
+1,1,1,0.5,0.5,0.5,2,2,1,0.25,1,2,1,1,2,1,1,0.5,Mushroom Pokémon,Amoonguss,591,grass,poison,0
+0.5,2,1,2,1,0,0.5,1,2,2,1,0.5,0,0.5,1,1,0.5,0.5,Floating Pokémon,Frillish,592,water,ghost,0
+0.5,2,1,2,1,0,0.5,1,2,2,1,0.5,0,0.5,1,1,0.5,0.5,Floating Pokémon,Jellicent,593,water,ghost,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Caring Pokémon,Alomomola,594,water,,0
+1,1,1,0.5,1,0.5,2,1,1,0.5,1,1,1,1,1,2,0.5,1,Attaching Pokémon,Joltik,595,bug,electric,0
+1,1,1,0.5,1,0.5,2,1,1,0.5,1,1,1,1,1,2,0.5,1,EleSpider Pokémon,Galvantula,596,bug,electric,0
+1,1,0.5,0.5,0.5,2,4,1,1,0.25,1,1,0.5,0,0.5,0.5,0.5,0.5,Thorn Seed Pokémon,Ferroseed,597,grass,steel,0
+1,1,0.5,0.5,0.5,2,4,1,1,0.25,1,1,0.5,0,0.5,0.5,0.5,0.5,Thorn Pod Pokémon,Ferrothorn,598,grass,steel,0
+0.5,1,0.5,1,0.5,2,2,0.5,1,0.5,2,0.5,0.5,0,0.5,0.5,0.5,1,Gear Pokémon,Klink,599,steel,,0
+0.5,1,0.5,1,0.5,2,2,0.5,1,0.5,2,0.5,0.5,0,0.5,0.5,0.5,1,Gear Pokémon,Klang,600,steel,,0
+0.5,1,0.5,1,0.5,2,2,0.5,1,0.5,2,0.5,0.5,0,0.5,0.5,0.5,1,Gear Pokémon,Klinklang,601,steel,,0
+1,1,1,0.5,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,EleFish Pokémon,Tynamo,602,electric,,0
+1,1,1,0.5,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,EleFish Pokémon,Eelektrik,603,electric,,0
+1,1,1,0.5,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,EleFish Pokémon,Eelektross,604,electric,,0
+2,2,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,1,1,Cerebral Pokémon,Elgyem,605,psychic,,0
+2,2,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,1,1,Cerebral Pokémon,Beheeyem,606,psychic,,0
+0.25,2,1,1,0.5,0,0.5,1,2,0.5,2,0.5,0,0.5,1,2,0.5,2,Candle Pokémon,Litwick,607,ghost,fire,0
+0.25,2,1,1,0.5,0,0.5,1,2,0.5,2,0.5,0,0.5,1,2,0.5,2,Lamp Pokémon,Lampent,608,ghost,fire,0
+0.25,2,1,1,0.5,0,0.5,1,2,0.5,2,0.5,0,0.5,1,2,0.5,2,Luring Pokémon,Chandelure,609,ghost,fire,0
+1,1,2,0.5,2,1,0.5,1,1,0.5,1,2,1,1,1,1,1,0.5,Tusk Pokémon,Axew,610,dragon,,0
+1,1,2,0.5,2,1,0.5,1,1,0.5,1,2,1,1,1,1,1,0.5,Axe Jaw Pokémon,Fraxure,611,dragon,,0
+1,1,2,0.5,2,1,0.5,1,1,0.5,1,2,1,1,1,1,1,0.5,Axe Jaw Pokémon,Haxorus,612,dragon,,0
+1,1,1,1,1,2,2,1,1,1,1,0.5,1,1,1,2,2,1,Chill Pokémon,Cubchoo,613,ice,,0
+1,1,1,1,1,2,2,1,1,1,1,0.5,1,1,1,2,2,1,Freezing Pokémon,Beartic,614,ice,,0
+1,1,1,1,1,2,2,1,1,1,1,0.5,1,1,1,2,2,1,Crystallizing Pokémon,Cryogonal,615,ice,,0
+1,1,1,1,1,0.5,2,2,1,0.5,0.5,1,1,1,1,2,1,1,Snail Pokémon,Shelmet,616,bug,,0
+1,1,1,1,1,0.5,2,2,1,0.5,0.5,1,1,1,1,2,1,1,Shell Out Pokémon,Accelgor,617,bug,,0
+1,1,1,0,1,1,1,0.5,1,2,2,2,1,0.5,1,0.5,0.5,2,Trap Pokémon,Stunfisk,618,ground,electric,0
+0.5,0.5,1,1,2,1,1,2,1,1,1,1,1,1,2,0.5,1,1,Martial Arts Pokémon,Mienfoo,619,fighting,,0
+0.5,0.5,1,1,2,1,1,2,1,1,1,1,1,1,2,0.5,1,1,Martial Arts Pokémon,Mienshao,620,fighting,,0
+1,1,2,0.5,2,1,0.5,1,1,0.5,1,2,1,1,1,1,1,0.5,Cave Pokémon,Druddigon,621,dragon,,0
+0.5,2,1,0,1,0,1,1,2,2,1,2,0,0.25,1,0.5,1,2,Automaton Pokémon,Golett,622,ground,ghost,0
+0.5,2,1,0,1,0,1,1,2,2,1,2,0,0.25,1,0.5,1,2,Automaton Pokémon,Golurk,623,ground,ghost,0
+1,0.5,0.5,1,1,4,2,0.5,0.5,0.5,2,0.5,0.5,0,0,0.5,0.5,1,Sharp Blade Pokémon,Pawniard,624,dark,steel,0
+1,0.5,0.5,1,1,4,2,0.5,0.5,0.5,2,0.5,0.5,0,0,0.5,0.5,1,Sword Blade Pokémon,Bisharp,625,dark,steel,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Bash Buffalo Pokémon,Bouffalant,626,normal,,0
+0.5,1,1,2,1,1,1,1,0,0.5,0,2,1,1,1,2,1,1,Eaglet Pokémon,Rufflet,627,normal,flying,0
+0.5,1,1,2,1,1,1,1,0,0.5,0,2,1,1,1,2,1,1,Valiant Pokémon,Braviary,628,normal,flying,0
+1,0.5,1,2,2,1,1,1,0.5,0.5,0,2,1,1,0,2,1,1,Diapered Pokémon,Vullaby,629,dark,flying,0
+1,0.5,1,2,2,1,1,1,0.5,0.5,0,2,1,1,0,2,1,1,Bone Vulture Pokémon,Mandibuzz,630,dark,flying,0
+0.5,1,1,1,0.5,1,0.5,1,1,0.5,2,0.5,1,1,1,2,0.5,2,Anteater Pokémon,Heatmor,631,fire,,0
+0.5,1,0.5,1,0.5,1,4,1,1,0.25,1,0.5,0.5,0,0.5,1,0.5,1,Iron Ant Pokémon,Durant,632,bug,steel,0
+2,0.5,2,0.5,4,2,0.5,1,0.5,0.5,1,2,1,1,0,1,1,0.5,Irate Pokémon,Deino,633,dark,dragon,0
+2,0.5,2,0.5,4,2,0.5,1,0.5,0.5,1,2,1,1,0,1,1,0.5,Hostile Pokémon,Zweilous,634,dark,dragon,0
+2,0.5,2,0.5,4,2,0.5,1,0.5,0.5,1,2,1,1,0,1,1,0.5,Brutal Pokémon,Hydreigon,635,dark,dragon,0
+0.5,1,1,1,0.5,0.5,1,2,1,0.25,1,0.5,1,1,1,4,0.5,2,Torch Pokémon,Larvesta,636,bug,fire,0
+0.5,1,1,1,0.5,0.5,1,2,1,0.25,1,0.5,1,1,1,4,0.5,2,Sun Pokémon,Volcarona,637,bug,fire,0
+0.25,0.5,0.5,1,1,2,2,1,1,0.5,2,0.5,0.5,0,1,0.25,0.5,1,Iron Will Pokémon,Cobalion,638,steel,fighting,1
+0.5,0.5,1,1,2,2,0.5,1,1,2,2,1,0.5,0.5,2,0.5,2,2,Cavern Pokémon,Terrakion,639,rock,fighting,1
+1,0.5,1,0.5,2,1,2,4,1,0.5,0.5,2,1,2,2,0.5,1,0.5,Grassland Pokémon,Virizion,640,grass,fighting,1
+0.5,1,1,2,1,0.5,1,1,1,0.5,0,2,1,1,1,2,1,1,Cyclone Pokémon,Tornadus,641,flying,,1
+0.5,1,1,1,1,0.5,1,0.5,1,0.5,0,2,1,1,1,2,0.5,1,Bolt Strike Pokémon,Thundurus,642,electric,flying,1
+0.5,1,2,0.5,1,1,0.25,1,1,0.25,2,1,1,1,1,2,0.5,1,Vast White Pokémon,Reshiram,643,dragon,fire,1
+1,1,2,0.25,2,1,0.5,0.5,1,0.5,2,2,1,1,1,1,0.5,0.5,Deep Black Pokémon,Zekrom,644,dragon,electric,1
+0.5,1,1,0,1,0.5,1,1,1,1,0,4,1,0.5,1,1,1,2,Abundance Pokémon,Landorus,645,ground,flying,1
+1,1,2,0.5,2,2,1,1,1,0.5,1,1,1,1,1,2,2,0.5,Boundary Pokémon,Kyurem,646,dragon,ice,1
+0.5,0.5,1,2,2,1,0.5,2,1,2,1,0.5,1,1,2,0.5,0.5,0.5,Colt Pokémon,Keldeo,647,water,fighting,1
+2,2,1,1,1,1,1,1,0,1,1,1,1,1,0.5,1,1,1,Melody Pokémon,Meloetta,648,normal,psychic,1
+0.5,1,0.5,1,0.5,1,4,1,1,0.25,1,0.5,0.5,0,0.5,1,0.5,1,Paleozoic Pokémon,Genesect,649,bug,steel,1
+2,1,1,0.5,1,1,2,2,1,0.5,0.5,2,1,2,1,1,1,0.5,Spiky Nut Pokémon,Chespin,650,grass,,0
+2,1,1,0.5,1,1,2,2,1,0.5,0.5,2,1,2,1,1,1,0.5,Spiny Armor Pokémon,Quilladin,651,grass,,0
+1,0.5,1,0.5,2,1,2,4,1,0.5,0.5,2,1,2,2,0.5,1,0.5,Spiny Armor Pokémon,Chesnaught,652,grass,fighting,0
+0.5,1,1,1,0.5,1,0.5,1,1,0.5,2,0.5,1,1,1,2,0.5,2,Fox Pokémon,Fennekin,653,fire,,0
+0.5,1,1,1,0.5,1,0.5,1,1,0.5,2,0.5,1,1,1,2,0.5,2,Fox Pokémon,Braixen,654,fire,,0
+1,2,1,1,0.5,0.5,0.5,1,2,0.5,2,0.5,1,1,0.5,2,0.5,2,Fox Pokémon,Delphox,655,fire,psychic,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Bubble Frog Pokémon,Froakie,656,water,,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Bubble Frog Pokémon,Frogadier,657,water,,0
+2,0.5,1,2,2,2,0.5,1,0.5,2,1,0.5,1,1,0,1,0.5,0.5,Ninja Pokémon,Greninja,658,water,dark,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Digging Pokémon,Bunnelby,659,normal,,0
+1,1,1,0,1,2,1,1,0,2,1,2,1,0.5,1,0.5,1,2,Digging Pokémon,Diggersby,660,normal,ground,0
+0.5,1,1,2,1,1,1,1,0,0.5,0,2,1,1,1,2,1,1,Tiny Robin Pokémon,Fletchling,661,normal,flying,0
+0.25,1,1,2,0.5,0.5,0.5,1,1,0.25,0,1,1,1,1,4,0.5,2,Ember Pokémon,Fletchinder,662,fire,flying,0
+0.25,1,1,2,0.5,0.5,0.5,1,1,0.25,0,1,1,1,1,4,0.5,2,Scorching Pokémon,Talonflame,663,fire,flying,0
+1,1,1,1,1,0.5,2,2,1,0.5,0.5,1,1,1,1,2,1,1,Scatterdust Pokémon,Scatterbug,664,bug,,0
+1,1,1,1,1,0.5,2,2,1,0.5,0.5,1,1,1,1,2,1,1,Scatterdust Pokémon,Spewpa,665,bug,,0
+0.5,1,1,2,1,0.25,2,2,1,0.25,0,2,1,1,1,4,1,1,Scale Pokémon,Vivillon,666,bug,flying,0
+0.5,1,1,1,0.5,2,0.5,1,0,0.5,2,0.5,1,1,1,2,0.5,2,Lion Cub Pokémon,Litleo,667,fire,normal,0
+0.5,1,1,1,0.5,2,0.5,1,0,0.5,2,0.5,1,1,1,2,0.5,2,Royal Pokémon,Pyroar,668,fire,normal,0
+0.5,0.5,0,1,1,0.5,1,1,1,1,1,1,1,2,1,1,2,1,Single Bloom Pokémon,Flabébé,669,fairy,,0
+0.5,0.5,0,1,1,0.5,1,1,1,1,1,1,1,2,1,1,2,1,Fairy Pokémon,Floette,670,fairy,,0
+0.5,0.5,0,1,1,0.5,1,1,1,1,1,1,1,2,1,1,2,1,Garden Pokémon,Florges,671,fairy,,0
+2,1,1,0.5,1,1,2,2,1,0.5,0.5,2,1,2,1,1,1,0.5,Mount Pokémon,Skiddo,672,grass,,0
+2,1,1,0.5,1,1,2,2,1,0.5,0.5,2,1,2,1,1,1,0.5,Mount Pokémon,Gogoat,673,grass,,0
+0.5,0.5,1,1,2,1,1,2,1,1,1,1,1,1,2,0.5,1,1,Playful Pokémon,Pancham,674,fighting,,0
+1,0.25,1,1,4,2,1,2,0.5,1,1,1,1,1,0,0.5,1,1,Daunting Pokémon,Pangoro,675,fighting,dark,0
+1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,Poodle Pokémon,Furfrou,676,normal,,0
+2,2,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,1,1,Restraint Pokémon,Espurr,677,psychic,,0
+2,2,1,1,1,0.5,1,1,2,1,1,1,1,1,0.5,1,1,1,Constraint Pokémon,Meowstic,678,psychic,,0
+0.25,2,0.5,1,0.5,0,2,0.5,2,0.5,2,0.5,0,0,0.5,0.5,0.5,1,Sword Pokémon,Honedge,679,steel,ghost,0
+0.25,2,0.5,1,0.5,0,2,0.5,2,0.5,2,0.5,0,0,0.5,0.5,0.5,1,Sword Pokémon,Doublade,680,steel,ghost,0
+0.25,2,0.5,1,0.5,0,2,0.5,2,0.5,2,0.5,0,0,0.5,0.5,0.5,1,Royal Sword Pokémon,Aegislash,681,steel,ghost,0
+0.5,0.5,0,1,1,0.5,1,1,1,1,1,1,1,2,1,1,2,1,Perfume Pokémon,Spritzee,682,fairy,,0
+0.5,0.5,0,1,1,0.5,1,1,1,1,1,1,1,2,1,1,2,1,Fragrance Pokémon,Aromatisse,683,fairy,,0
+0.5,0.5,0,1,1,0.5,1,1,1,1,1,1,1,2,1,1,2,1,Cotton Candy Pokémon,Swirlix,684,fairy,,0
+0.5,0.5,0,1,1,0.5,1,1,1,1,1,1,1,2,1,1,2,1,Meringue Pokémon,Slurpuff,685,fairy,,0
+4,1,1,1,2,1,1,1,1,1,1,1,1,1,0,1,1,1,Revolving Pokémon,Inkay,686,dark,psychic,0
+4,1,1,1,2,1,1,1,1,1,1,1,1,1,0,1,1,1,Overturning Pokémon,Malamar,687,dark,psychic,0
+1,1,1,2,1,2,0.25,0.5,1,4,2,0.5,0.5,0.5,1,1,1,1,Two-Handed Pokémon,Binacle,688,rock,water,0
+1,1,1,2,1,2,0.25,0.5,1,4,2,0.5,0.5,0.5,1,1,1,1,Collective Pokémon,Barbaracle,689,rock,water,0
+0.5,1,1,2,0.5,0.5,0.5,1,1,1,2,0.5,1,0.5,2,1,0.5,0.5,Mock Kelp Pokémon,Skrelp,690,poison,water,0
+0.5,1,2,0.5,1,0.5,0.5,1,1,0.25,2,2,1,0.5,2,1,1,0.5,Mock Kelp Pokémon,Dragalge,691,poison,dragon,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Water Gun Pokémon,Clauncher,692,water,,0
+1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,Howitzer Pokémon,Clawitzer,693,water,,0
+1,1,1,0.5,1,2,1,0.5,0,1,2,1,1,1,1,1,0.5,1,Generator Pokémon,Helioptile,694,electric,normal,0
+1,1,1,0.5,1,2,1,0.5,0,1,2,1,1,1,1,1,0.5,1,Generator Pokémon,Heliolisk,695,electric,normal,0
+1,1,2,0.5,2,2,0.25,0.5,1,1,2,2,0.5,0.5,1,1,2,1,Royal Heir Pokémon,Tyrunt,696,rock,dragon,0
+1,1,2,0.5,2,2,0.25,0.5,1,1,2,2,0.5,0.5,1,1,2,1,Despot Pokémon,Tyrantrum,697,rock,dragon,0
+1,1,1,1,1,4,1,0.5,1,2,2,0.5,0.5,0.5,1,2,4,2,Tundra Pokémon,Amaura,698,rock,ice,0
+1,1,1,1,1,4,1,0.5,1,2,2,0.5,0.5,0.5,1,2,4,2,Tundra Pokémon,Aurorus,699,rock,ice,0
+0.5,0.5,0,1,1,0.5,1,1,1,1,1,1,1,2,1,1,2,1,Intertwining Pokémon,Sylveon,700,fairy,,0
+0.25,0.5,1,2,2,0.5,1,2,1,0.5,0,2,1,1,2,1,1,1,Wrestling Pokémon,Hawlucha,701,fighting,flying,0
+0.5,0.5,0,0.5,1,0.5,1,0.5,1,1,2,1,1,2,1,1,1,1,Antenna Pokémon,Dedenne,702,electric,fairy,0
+0.5,0.5,0,1,1,1,0.5,0.5,1,2,2,1,0.5,1,1,1,4,2,Jewel Pokémon,Carbink,703,rock,fairy,0
+1,1,2,0.5,2,1,0.5,1,1,0.5,1,2,1,1,1,1,1,0.5,Soft Tissue Pokémon,Goomy,704,dragon,,0
+1,1,2,0.5,2,1,0.5,1,1,0.5,1,2,1,1,1,1,1,0.5,Soft Tissue Pokémon,Sliggoo,705,dragon,,0
+1,1,2,0.5,2,1,0.5,1,1,0.5,1,2,1,1,1,1,1,0.5,Dragon Pokémon,Goodra,706,dragon,,0
+0.25,0.5,0,1,0.5,1,2,0.5,1,0.5,2,0.5,0.5,0,0.5,0.5,1,1,Key Ring Pokémon,Klefki,707,steel,fairy,0
+1,2,1,0.5,1,0,2,2,2,0.5,0.5,2,0,1,1,1,1,0.5,Stump Pokémon,Phantump,708,ghost,grass,0
+1,2,1,0.5,1,0,2,2,2,0.5,0.5,2,0,1,1,1,1,0.5,Elder Tree Pokémon,Trevenant,709,ghost,grass,0
+1,2,1,0.5,1,0,2,2,2,0.5,0.5,2,0,1,1,1,1,0.5,Pumpkin Pokémon,Pumpkaboo,710,ghost,grass,0
+1,2,1,0.5,1,0,2,2,2,0.5,0.5,2,0,1,1,1,1,0.5,Pumpkin Pokémon,Gourgeist,711,ghost,grass,0
+1,1,1,1,1,2,2,1,1,1,1,0.5,1,1,1,2,2,1,Ice Chunk Pokémon,Bergmite,712,ice,,0
+1,1,1,1,1,2,2,1,1,1,1,0.5,1,1,1,2,2,1,Iceberg Pokémon,Avalugg,713,ice,,0
+0.5,1,2,1,2,0.5,0.5,1,1,0.25,0,4,1,1,1,2,1,0.5,Sound Wave Pokémon,Noibat,714,flying,dragon,0
+0.5,1,2,1,2,0.5,0.5,1,1,0.25,0,4,1,1,1,2,1,0.5,Sound Wave Pokémon,Noivern,715,flying,dragon,0
+0.5,0.5,0,1,1,0.5,1,1,1,1,1,1,1,2,1,1,2,1,Life Pokémon,Xerneas,716,fairy,,1
+1,0.5,1,2,2,1,1,1,0.5,0.5,0,2,1,1,0,2,1,1,Destruction Pokémon,Yveltal,717,dark,flying,1
+1,1,2,0,2,1,0.5,1,1,1,1,4,1,0.5,1,0.5,1,1,Order Pokémon,Zygarde,718,dragon,ground,1
+0.5,0.5,0,1,1,1,0.5,0.5,1,2,2,1,0.5,1,1,1,4,2,Jewel Pokémon,Diancie,719,rock,fairy,1
+1,4,1,1,1,0,1,1,4,1,1,1,0,0.5,0.5,1,1,1,Mischief Pokémon (Confined)Djinn Pokémonn (Unbound),Hoopa,720,psychic,ghost,1
+0.5,1,1,2,0.5,1,0.25,1,1,1,2,0.25,1,1,1,2,0.25,1,Steam Pokémon,Volcanion,721,fire,water,1

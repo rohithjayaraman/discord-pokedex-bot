@@ -1,0 +1,16 @@
+{
+  "name": "discord-pokedex-bot",
+  "version": "1.0.0",
+  "description": "Pokedex helper",
+  "main": "bot.js",
+  "scripts": {
+    "serve": "node bot.js"
+  },
+  "keywords": [],
+  "author": "Rohith Jayaraman",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "discord.js": "^12.2.0"
+  }
+}
