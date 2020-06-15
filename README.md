@@ -25,6 +25,18 @@ Place your discord bot's token in the `bot.js` file. Check out [this page](https
 * Run the NodeJS script using the `yarn serve` command or by typing `node bot.js`
 * Once both the servers are running, you can navigate to the discord channel where the bot is present and type `dexy <pokemon_name>` and the bot will reply with the details of the pokemon if it exists in the database
 
+## Screenshots
+### Ping response
+![ping response](images/ping-screenshot.png)
+
+### Sample responses
+![eevee](images/eevee.png)
+![gengar](images/gengar.png)
+![rayquaza](images/rayquaza.png)
+
+### Entering an unknown pokemon name triggers an error response as shown below
+![error response](images/wrong-input.png)
+
 ## Sources
 * [Pokemon Data](https://www.kaggle.com/rounakbanik/pokemon)
 * [Pokemon Evolution Data](https://www.kaggle.com/mrdew25/pokemon-database)
